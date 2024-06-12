@@ -2598,3 +2598,1156 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.12-05.35.16:429][ 46]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MaterialsClass/low__Auto5
 [2024.06.12-05.35.16:429][ 46]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/low__Auto5CD12D3D64A50D0E91ECE7C8D8AA4A7CC.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/Autosaves/Game/MaterialsClass/low__Auto5.uasset'
 [2024.06.12-05.35.16:431][ 46]LogFileHelpers: Auto-saving content packages took 0.115
+[2024.06.12-05.40.55:026][902]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.06.12-05.40.55:038][902]LogContentBrowser: Creating deferred item: NewFolder
+[2024.06.12-05.40.55:048][903]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.06.12-05.41.00:976][253]LogContentBrowser: Attempting asset rename: NewFolder -> EmmisiveColor
+[2024.06.12-05.41.00:977][253]LogContentBrowser: End creating deferred item NewFolder
+[2024.06.12-05.41.10:940][833]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-05.41.11:012][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.06.12-05.41.11:019][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.06.12-05.41.11:020][833]LogSavePackage: Moving output files for package: /Game/MaterialsClass/EmmisiveColor/M_Blue
+[2024.06.12-05.41.11:020][833]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/M_Blue3563DBC940F680E236473DB88ECCBE38.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/MaterialsClass/EmmisiveColor/M_Blue.uasset'
+[2024.06.12-05.41.11:021][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MaterialsClass/M_Blue" FILE="../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/MaterialsClass/M_Blue.uasset" SILENT=true
+[2024.06.12-05.41.11:022][833]LogSavePackage: Moving output files for package: /Game/MaterialsClass/M_Blue
+[2024.06.12-05.41.11:022][833]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/M_BlueC6EE6D114B790AB0BE7568A309FC443D.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/MaterialsClass/M_Blue.uasset'
+[2024.06.12-05.41.11:024][833]LogSavePackage: Moving output files for package: /Game/MaterialsClass/EmmisiveColor/M_Emmisive
+[2024.06.12-05.41.11:024][833]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/M_Emmisive757320A74092F53339D8AE8F47F62E9D.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/MaterialsClass/EmmisiveColor/M_Emmisive.uasset'
+[2024.06.12-05.41.11:025][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MaterialsClass/M_Emmisive" FILE="../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/MaterialsClass/M_Emmisive.uasset" SILENT=true
+[2024.06.12-05.41.11:026][833]LogSavePackage: Moving output files for package: /Game/MaterialsClass/M_Emmisive
+[2024.06.12-05.41.11:028][833]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/M_Emmisive9DC346134C782D41DBCEBD956AC64410.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/MaterialsClass/M_Emmisive.uasset'
+[2024.06.12-05.41.11:034][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.06.12-05.41.11:039][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.06.12-05.41.11:041][833]LogSavePackage: Moving output files for package: /Game/MaterialsClass/EmmisiveColor/M_Orange
+[2024.06.12-05.41.11:041][833]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/M_Orange39C0EDD142AD78152494F3AE2CBC00F9.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/MaterialsClass/EmmisiveColor/M_Orange.uasset'
+[2024.06.12-05.41.11:047][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.06.12-05.41.11:051][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.06.12-05.41.11:053][833]LogSavePackage: Moving output files for package: /Game/MaterialsClass/EmmisiveColor/M_Pink
+[2024.06.12-05.41.11:053][833]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/M_Pink1952B2574950392A517F8082610D96F6.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/MaterialsClass/EmmisiveColor/M_Pink.uasset'
+[2024.06.12-05.41.11:058][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.06.12-05.41.11:062][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.12-05.41.11:064][833]LogSavePackage: Moving output files for package: /Game/MaterialsClass/EmmisiveColor/M_Purple
+[2024.06.12-05.41.11:064][833]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/M_PurpleC9AE036F46AF229C556A188E87B4AAB2.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/MaterialsClass/EmmisiveColor/M_Purple.uasset'
+[2024.06.12-05.41.11:069][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.06.12-05.41.11:074][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.06.12-05.41.11:075][833]LogSavePackage: Moving output files for package: /Game/MaterialsClass/EmmisiveColor/M_Red
+[2024.06.12-05.41.11:075][833]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/M_Red10A8648D468F8F6B630D44BDB930BA49.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/MaterialsClass/EmmisiveColor/M_Red.uasset'
+[2024.06.12-05.41.11:080][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.12-05.41.11:085][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.06.12-05.41.11:086][833]LogSavePackage: Moving output files for package: /Game/MaterialsClass/EmmisiveColor/M_Yellow
+[2024.06.12-05.41.11:087][833]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/M_YellowEC592CDE4F20F5C050C06EB67F929C42.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/MaterialsClass/EmmisiveColor/M_Yellow.uasset'
+[2024.06.12-05.41.11:093][833]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 4.20 sec)
+[2024.06.12-05.41.11:106][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.12-05.41.11:112][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.06.12-05.41.11:116][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.06.12-05.41.11:141][833]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.12-05.41.11:141][833]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/MaterialsClass/EmmisiveColor/M_Blue.M_Blue
+[2024.06.12-05.41.11:141][833]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/MaterialsClass/M_Blue.M_Blue
+[2024.06.12-05.41.11:141][833]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MaterialsClass/EmmisiveColor/M_Emmisive.M_Emmisive
+[2024.06.12-05.41.11:141][833]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/MaterialsClass/M_Emmisive.M_Emmisive
+[2024.06.12-05.41.11:141][833]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/MaterialsClass/EmmisiveColor/M_Orange.M_Orange
+[2024.06.12-05.41.11:141][833]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/MaterialsClass/EmmisiveColor/M_Pink.M_Pink
+[2024.06.12-05.41.11:141][833]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/MaterialsClass/EmmisiveColor/M_Purple.M_Purple
+[2024.06.12-05.41.11:141][833]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/MaterialsClass/EmmisiveColor/M_Red.M_Red
+[2024.06.12-05.41.11:141][833]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/MaterialsClass/EmmisiveColor/M_Yellow.M_Yellow
+[2024.06.12-05.41.15:514][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.06.12-05.41.16:500][ 84]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.12-05.41.16:518][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.06.12-05.41.16:523][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.06.12-05.41.16:532][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.06.12-05.41.24:469][543]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.06.12-05.41.24:477][543]LogContentBrowser: Creating deferred item: NewFolder
+[2024.06.12-05.41.24:491][544]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.06.12-05.41.37:571][327]LogContentBrowser: Attempting asset rename: NewFolder -> NeonSignChilli
+[2024.06.12-05.41.37:571][327]LogContentBrowser: End creating deferred item NewFolder
+[2024.06.12-05.41.40:538][505]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2024.06.12-05.41.40:538][505]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2024.06.12-05.41.42:105][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-05.41.42:177][592]LogSavePackage: Moving output files for package: /Game/Models/NeonSignChilli/source/neon_sign
+[2024.06.12-05.41.42:177][592]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/neon_sign8BCEEB37424DAB2E34F24A84106AFC75.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Models/NeonSignChilli/source/neon_sign.uasset'
+[2024.06.12-05.41.42:177][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/source/neon_sign" FILE="../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Models/source/neon_sign.uasset" SILENT=true
+[2024.06.12-05.41.42:179][592]LogSavePackage: Moving output files for package: /Game/Models/source/neon_sign
+[2024.06.12-05.41.42:179][592]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/neon_signE025DD4D426D1D034F00049FF8D6CDEB.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Models/source/neon_sign.uasset'
+[2024.06.12-05.41.42:185][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 4.28 sec)
+[2024.06.12-05.41.42:248][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-05.41.42:311][592]LogSavePackage: Moving output files for package: /Game/Models/NeonSignChilli/textures/low_Neon_sign_BaseColor_Mat
+[2024.06.12-05.41.42:312][592]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/low_Neon_sign_BaseColor_MatDA594709447BF2E1346AB6ABF4E4C8AC.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Models/NeonSignChilli/textures/low_Neon_sign_BaseColor_Mat.uasset'
+[2024.06.12-05.41.42:393][592]LogSavePackage: Moving output files for package: /Game/Models/NeonSignChilli/textures/low_Neon_sign_Normal
+[2024.06.12-05.41.42:393][592]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/low_Neon_sign_NormalBE491A2F4379D695D1842786E7F2B9E6.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Models/NeonSignChilli/textures/low_Neon_sign_Normal.uasset'
+[2024.06.12-05.41.42:413][592]LogSavePackage: Moving output files for package: /Game/Models/NeonSignChilli/textures/low_Neon_sign_AO
+[2024.06.12-05.41.42:413][592]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/low_Neon_sign_AO27D7740F4306D30921B414B83A205004.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Models/NeonSignChilli/textures/low_Neon_sign_AO.uasset'
+[2024.06.12-05.41.42:455][592]LogSavePackage: Moving output files for package: /Game/Models/NeonSignChilli/textures/low_Neon_sign_Emissive
+[2024.06.12-05.41.42:455][592]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/low_Neon_sign_Emissive56ED4D8541C0372A930BDC86DC957AE6.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Models/NeonSignChilli/textures/low_Neon_sign_Emissive.uasset'
+[2024.06.12-05.41.42:473][592]LogSavePackage: Moving output files for package: /Game/Models/NeonSignChilli/textures/low_Neon_sign_Roughness
+[2024.06.12-05.41.42:473][592]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/low_Neon_sign_Roughness66EC832644F0FC78CC91B19F18317170.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Models/NeonSignChilli/textures/low_Neon_sign_Roughness.uasset'
+[2024.06.12-05.41.42:519][592]LogSavePackage: Moving output files for package: /Game/Models/NeonSignChilli/textures/low_Neon_sign_BaseColor
+[2024.06.12-05.41.42:519][592]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/low_Neon_sign_BaseColor5EAF072041A15CF46D236D87E7EBC0CE.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Models/NeonSignChilli/textures/low_Neon_sign_BaseColor.uasset'
+[2024.06.12-05.41.42:531][592]LogSavePackage: Moving output files for package: /Game/Models/NeonSignChilli/textures/low_Neon_sign_Metallic
+[2024.06.12-05.41.42:531][592]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/low_Neon_sign_MetallicA54089A6453E534A6E4CBA9E3E11DA47.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Models/NeonSignChilli/textures/low_Neon_sign_Metallic.uasset'
+[2024.06.12-05.41.42:539][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 290 ms (total: 4.57 sec)
+[2024.06.12-05.41.42:555][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.06.12-05.41.42:559][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.06.12-05.41.42:564][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.06.12-05.41.42:612][592]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.12-05.41.42:613][592]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Models/NeonSignChilli/source/neon_sign.neon_sign
+[2024.06.12-05.41.42:613][592]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Models/source/neon_sign.neon_sign
+[2024.06.12-05.41.42:613][592]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Models/NeonSignChilli/textures/low_Neon_sign_BaseColor_Mat.low_Neon_sign_BaseColor_Mat
+[2024.06.12-05.41.42:613][592]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Models/NeonSignChilli/textures/low_Neon_sign_Normal.low_Neon_sign_Normal
+[2024.06.12-05.41.42:613][592]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Models/NeonSignChilli/textures/low_Neon_sign_AO.low_Neon_sign_AO
+[2024.06.12-05.41.42:613][592]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Models/NeonSignChilli/textures/low_Neon_sign_Emissive.low_Neon_sign_Emissive
+[2024.06.12-05.41.42:613][592]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Models/NeonSignChilli/textures/low_Neon_sign_Roughness.low_Neon_sign_Roughness
+[2024.06.12-05.41.42:613][592]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Models/NeonSignChilli/textures/low_Neon_sign_BaseColor.low_Neon_sign_BaseColor
+[2024.06.12-05.41.42:613][592]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Models/NeonSignChilli/textures/low_Neon_sign_Metallic.low_Neon_sign_Metallic
+[2024.06.12-05.42.01:848][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.06.12-05.42.12:679][719]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.12-05.42.12:698][719]LogAutomationController: Ignoring very large delta of 10.88 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.06.12-05.42.22:466][274]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-05.42.22:519][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hielo_Graph" FILE="../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Hielo_Graph.uasset" SILENT=true
+[2024.06.12-05.42.22:520][274]LogSavePackage: Moving output files for package: /Game/Hielo_Graph
+[2024.06.12-05.42.22:520][274]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/Hielo_Graph7F1D9A7549BDFC380702E29C4B52B3DC.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Hielo_Graph.uasset'
+[2024.06.12-05.42.22:521][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/R_Water" FILE="../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/R_Water.uasset" SILENT=true
+[2024.06.12-05.42.22:522][274]LogSavePackage: Moving output files for package: /Game/R_Water
+[2024.06.12-05.42.22:522][274]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/R_Water55C9CCA548EE9D916C9B46AF4D122B7C.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/R_Water.uasset'
+[2024.06.12-05.42.22:523][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_BaseColor" FILE="../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/M_BaseColor.uasset" SILENT=true
+[2024.06.12-05.42.22:524][274]LogSavePackage: Moving output files for package: /Game/Materials/M_BaseColor
+[2024.06.12-05.42.22:524][274]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/M_BaseColor1152D2894B70C906632EFC8996B457A3.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/M_BaseColor.uasset'
+[2024.06.12-05.42.22:525][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MaterialsClass/M_BaseColor" FILE="../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/MaterialsClass/M_BaseColor.uasset" SILENT=true
+[2024.06.12-05.42.22:525][274]LogSavePackage: Moving output files for package: /Game/MaterialsClass/M_BaseColor
+[2024.06.12-05.42.22:527][274]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/M_BaseColor7F66D98B44AE14A78678B7B4380212E8.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/MaterialsClass/M_BaseColor.uasset'
+[2024.06.12-05.42.22:529][274]LogSavePackage: Moving output files for package: /Game/Materials/WhatsApp_Image_2024-05-24_at_8_36_05_AM
+[2024.06.12-05.42.22:529][274]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/WhatsApp_Image_2024-05-24_at_8_3F9D1DAF0406028E6B88BF9A51462CBBD.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/WhatsApp_Image_2024-05-24_at_8_36_05_AM.uasset'
+[2024.06.12-05.42.22:532][274]LogSavePackage: Moving output files for package: /Game/Materials/WhatsApp_Image_2024-05-24_at_8_36_09_AM
+[2024.06.12-05.42.22:532][274]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/WhatsApp_Image_2024-05-24_at_8_32A38817E456EDBC172BA69A7DA5B3F9F.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/WhatsApp_Image_2024-05-24_at_8_36_09_AM.uasset'
+[2024.06.12-05.42.22:532][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Hielo_Graph" FILE="../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/Hielo_Graph.uasset" SILENT=true
+[2024.06.12-05.42.22:538][274]LogSavePackage: Moving output files for package: /Game/Materials/Hielo_Graph
+[2024.06.12-05.42.22:538][274]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/Hielo_Graph58C3D4BF446F933CA27FC9B443C98D04.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/Hielo_Graph.uasset'
+[2024.06.12-05.42.22:538][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Water_Normal" FILE="../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/Water_Normal.uasset" SILENT=true
+[2024.06.12-05.42.22:570][274]LogSavePackage: Moving output files for package: /Game/Materials/Water_Normal
+[2024.06.12-05.42.22:570][274]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/Water_NormalE818AFEC4905535F10D7759ECA1EBA76.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/Water_Normal.uasset'
+[2024.06.12-05.42.22:571][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/R_Water" FILE="../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/R_Water.uasset" SILENT=true
+[2024.06.12-05.42.22:574][274]LogSavePackage: Moving output files for package: /Game/Materials/R_Water
+[2024.06.12-05.42.22:574][274]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/R_WaterFD3BD4FE47819758222451B28A0709FD.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/R_Water.uasset'
+[2024.06.12-05.42.22:579][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.06.12-05.42.22:585][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.06.12-05.42.22:586][274]LogSavePackage: Moving output files for package: /Game/Materials/EmmisiveColor/M_Blue
+[2024.06.12-05.42.22:586][274]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/M_BlueDB44CC1B45181E9663453C8E0C285A0F.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/EmmisiveColor/M_Blue.uasset'
+[2024.06.12-05.42.22:587][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Emmisive" FILE="../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/M_Emmisive.uasset" SILENT=true
+[2024.06.12-05.42.22:588][274]LogSavePackage: Moving output files for package: /Game/Materials/M_Emmisive
+[2024.06.12-05.42.22:588][274]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/M_EmmisiveB6E26F32493A9C3E229474BC76C5E69C.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/M_Emmisive.uasset'
+[2024.06.12-05.42.22:588][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MaterialsClass/M_Emmisive" FILE="../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/MaterialsClass/M_Emmisive.uasset" SILENT=true
+[2024.06.12-05.42.22:589][274]LogSavePackage: Moving output files for package: /Game/MaterialsClass/M_Emmisive
+[2024.06.12-05.42.22:589][274]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/M_Emmisive288BED144DEBFB95382833AEE8DDFE11.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/MaterialsClass/M_Emmisive.uasset'
+[2024.06.12-05.42.22:590][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Blue" FILE="../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/M_Blue.uasset" SILENT=true
+[2024.06.12-05.42.22:590][274]LogSavePackage: Moving output files for package: /Game/Materials/M_Blue
+[2024.06.12-05.42.22:590][274]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/M_BlueDD9D8029405E11C0F96327829FA14CDA.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/M_Blue.uasset'
+[2024.06.12-05.42.22:591][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MaterialsClass/M_Blue" FILE="../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/MaterialsClass/M_Blue.uasset" SILENT=true
+[2024.06.12-05.42.22:591][274]LogSavePackage: Moving output files for package: /Game/MaterialsClass/M_Blue
+[2024.06.12-05.42.22:592][274]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/M_Blue0E99E38347F3001C8B28349C79110499.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/MaterialsClass/M_Blue.uasset'
+[2024.06.12-05.42.22:598][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.06.12-05.42.22:603][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.06.12-05.42.22:605][274]LogSavePackage: Moving output files for package: /Game/Materials/EmmisiveColor/M_Yellow
+[2024.06.12-05.42.22:605][274]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/M_Yellow19DDB77B4351751F5D9CB0BD6F479420.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/EmmisiveColor/M_Yellow.uasset'
+[2024.06.12-05.42.22:609][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.12-05.42.22:613][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.06.12-05.42.22:615][274]LogSavePackage: Moving output files for package: /Game/Materials/EmmisiveColor/M_Purple
+[2024.06.12-05.42.22:615][274]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/M_Purple828A138A4FF748466B4076BFA7ED5954.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/EmmisiveColor/M_Purple.uasset'
+[2024.06.12-05.42.22:620][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.06.12-05.42.22:623][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.06.12-05.42.22:625][274]LogSavePackage: Moving output files for package: /Game/Materials/EmmisiveColor/M_Orange
+[2024.06.12-05.42.22:625][274]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/M_Orange26C311FD44E5ABC2D7CA4796B4254BA3.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/EmmisiveColor/M_Orange.uasset'
+[2024.06.12-05.42.22:630][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.12-05.42.22:633][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.12-05.42.22:636][274]LogSavePackage: Moving output files for package: /Game/Materials/EmmisiveColor/M_Pink
+[2024.06.12-05.42.22:636][274]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/M_Pink1385792344891127BFE1CB8D009C8AC1.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/EmmisiveColor/M_Pink.uasset'
+[2024.06.12-05.42.22:637][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/EmmisiveColor/M_Red" FILE="../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/EmmisiveColor/M_Red.uasset" SILENT=true
+[2024.06.12-05.42.22:640][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.06.12-05.42.22:645][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.06.12-05.42.22:646][274]LogSavePackage: Moving output files for package: /Game/Materials/EmmisiveColor/M_Red
+[2024.06.12-05.42.22:646][274]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/M_RedF3D6E7A34C3D5977947D1F83D4EE3F00.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/EmmisiveColor/M_Red.uasset'
+[2024.06.12-05.42.22:648][274]LogSavePackage: Moving output files for package: /Game/Materials/EmmisiveColor/M_Emmisive
+[2024.06.12-05.42.22:648][274]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/M_Emmisive5BD76A854E1E96840F4363BB960A870C.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/EmmisiveColor/M_Emmisive.uasset'
+[2024.06.12-05.42.22:656][274]LogFileHelpers: InternalPromptForCheckoutAndSave took 190 ms (total: 4.76 sec)
+[2024.06.12-05.42.22:683][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.06.12-05.42.22:688][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.06.12-05.42.22:693][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.06.12-05.42.22:702][274]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.12-05.42.22:702][274]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Hielo_Graph.Hielo_Graph
+[2024.06.12-05.42.22:702][274]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/R_Water.R_Water
+[2024.06.12-05.42.22:702][274]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/M_BaseColor.M_BaseColor
+[2024.06.12-05.42.22:702][274]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/MaterialsClass/M_BaseColor.M_BaseColor
+[2024.06.12-05.42.22:702][274]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Materials/WhatsApp_Image_2024-05-24_at_8_36_05_AM.WhatsApp_Image_2024-05-24_at_8_36_05_AM
+[2024.06.12-05.42.22:702][274]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Materials/WhatsApp_Image_2024-05-24_at_8_36_09_AM.WhatsApp_Image_2024-05-24_at_8_36_09_AM
+[2024.06.12-05.42.22:702][274]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/Hielo_Graph.Hielo_Graph
+[2024.06.12-05.42.22:702][274]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Materials/Water_Normal.Water_Normal
+[2024.06.12-05.42.22:702][274]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/R_Water.R_Water
+[2024.06.12-05.42.22:702][274]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/EmmisiveColor/M_Blue.M_Blue
+[2024.06.12-05.42.22:702][274]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Materials/M_Emmisive.M_Emmisive
+[2024.06.12-05.42.22:702][274]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/MaterialsClass/M_Emmisive.M_Emmisive
+[2024.06.12-05.42.22:702][274]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Materials/M_Blue.M_Blue
+[2024.06.12-05.42.22:702][274]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/MaterialsClass/M_Blue.M_Blue
+[2024.06.12-05.42.22:702][274]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/EmmisiveColor/M_Yellow.M_Yellow
+[2024.06.12-05.42.22:702][274]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/EmmisiveColor/M_Purple.M_Purple
+[2024.06.12-05.42.22:702][274]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/EmmisiveColor/M_Orange.M_Orange
+[2024.06.12-05.42.22:702][274]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/EmmisiveColor/M_Pink.M_Pink
+[2024.06.12-05.42.22:702][274]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/EmmisiveColor/M_Red.M_Red
+[2024.06.12-05.42.22:702][274]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/EmmisiveColor/M_Emmisive.M_Emmisive
+[2024.06.12-05.42.36:833][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.06.12-05.42.38:250][115]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.12-05.42.38:261][115]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/MaterialsClass/M_Blue.M_Blue
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/MaterialsClass/M_Emmisive.M_Emmisive
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/MaterialsClass/M_BaseColor.M_BaseColor
+	Asset Type: ObjectRedirector
+[2024.06.12-05.42.38:364][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.06.12-05.42.38:369][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.06.12-05.42.38:373][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.06.12-05.42.38:537][116]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.12-05.42.38:946][117]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.12-05.42.39:415][133]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.12-05.42.39:507][137]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.12-05.42.39:607][141]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.12-05.42.39:686][143]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.12-05.42.39:726][145]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.12-05.42.48:482][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.06.12-05.42.49:523][664]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.12-05.42.49:528][664]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/source/neon_sign.neon_sign
+	Asset Type: ObjectRedirector
+[2024.06.12-05.42.49:615][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.06.12-05.42.49:619][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.06.12-05.42.49:626][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.06.12-05.43.24:157][721]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.06.12-05.43.24:167][721]LogContentBrowser: Creating deferred item: NewFolder
+[2024.06.12-05.43.24:177][722]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.06.12-05.43.27:476][919]LogContentBrowser: Attempting asset rename: NewFolder -> BaseColor
+[2024.06.12-05.43.27:476][919]LogContentBrowser: End creating deferred item NewFolder
+[2024.06.12-05.43.31:773][167]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-05.43.31:839][167]LogSavePackage: Moving output files for package: /Game/Materials/BaseColor/M_BaseColor
+[2024.06.12-05.43.31:839][167]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/M_BaseColor0047828049CB348F3107AC90E83F6499.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/BaseColor/M_BaseColor.uasset'
+[2024.06.12-05.43.31:845][167]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 4.83 sec)
+[2024.06.12-05.43.31:853][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.06.12-05.43.31:857][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.06.12-05.43.31:862][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.06.12-05.43.31:898][167]AssetCheck: New page: Asset Save: M_BaseColor
+[2024.06.12-05.43.31:898][167]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/BaseColor/M_BaseColor.M_BaseColor
+[2024.06.12-05.45.16:867][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.06.12-05.45.16:873][533]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/GJ/2C6NLIROC1TRGFR9B9CSAR_Auto6
+[2024.06.12-05.45.16:873][533]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/2C6NLIROC1TRGFR9B9CSAR_Auto6B92352714E38130F2F2BACAC7042FCA4.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/GJ/2C6NLIROC1TRGFR9B9CSAR_Auto6.uasset'
+[2024.06.12-05.45.16:874][533]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IZ/POI3J774TYTGAXNF6PXUOW_Auto6
+[2024.06.12-05.45.16:875][533]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/POI3J774TYTGAXNF6PXUOW_Auto64DA3D0434897040DC1EAEE8F616B33F6.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IZ/POI3J774TYTGAXNF6PXUOW_Auto6.uasset'
+[2024.06.12-05.45.16:876][533]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/NA/B2HYYXKLEQCVZ1NTKFYQAQ_Auto6
+[2024.06.12-05.45.16:876][533]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/B2HYYXKLEQCVZ1NTKFYQAQ_Auto6368B5C2047FF2CE3D87CC5B05AFAF88B.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/NA/B2HYYXKLEQCVZ1NTKFYQAQ_Auto6.uasset'
+[2024.06.12-05.45.16:877][533]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/06/SUF2HB9M86UAQ0T2SQR4X4_Auto6
+[2024.06.12-05.45.16:877][533]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/SUF2HB9M86UAQ0T2SQR4X4_Auto65511EC7D40DF823AB9F3F9B0DC03A846.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/06/SUF2HB9M86UAQ0T2SQR4X4_Auto6.uasset'
+[2024.06.12-05.45.16:880][533]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HN/R17E4AB0BOLKHIA8ZVM897_Auto6
+[2024.06.12-05.45.16:880][533]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/R17E4AB0BOLKHIA8ZVM897_Auto6ACCA665B463FE240207A71BF4741D380.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HN/R17E4AB0BOLKHIA8ZVM897_Auto6.uasset'
+[2024.06.12-05.45.16:881][533]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.019
+[2024.06.12-05.45.16:881][533]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.019
+[2024.06.12-05.48.15:366][ 89]LogCEFBrowser: CEF GPU acceleration enabled
+[2024.06.12-05.48.21:850][414]LogSlate: Window 'Login' being destroyed
+[2024.06.12-05.48.25:007][593]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2024.06.12-05.48.25:007][593]LogWebBrowser: Deleting browser for Url=https://quixel.com/?code=6077b95a7772469c9f4e053018e8252a.
+[2024.06.12-05.48.27:076][712]LogSlate: Window 'Login' being destroyed
+[2024.06.12-05.53.01:295][958]LogSlate: Window 'Bridge' being destroyed
+[2024.06.12-05.53.01:301][958]LogSlate: Window 'Bridge' being destroyed
+[2024.06.12-05.53.01:301][958]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2024.06.12-05.53.01:301][958]LogWebBrowser: Deleting browser for Url=file:///C:/Program%20Files/Epic%20Games/UE_5.3/Engine/Plugins/Bridge/ThirdParty/megascans/index.html?token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Impob255d2hlZWxlckBnbWFpbC5jb20iLCJzY29wZSI6WyJkZWZhdWx0OnVzZXIiLCJtZWdhc2NhbnM6dXNlciJdLCJlcGljQWNjb3VudElkIjoiMzNmYzRiNGU3YzgzNDEzODk1MDAyODRiMDA3NjY1MWYiLCJpc1VucmVhbEVVTEFBY2NlcHRlZCI6dHJ1ZSwiaXNFcGljQWNjb3VudCI6dHJ1ZSwicXVpeGVsQWNjb3VudElkIjoiZTMyMDk0NTYtMzUzOC00MzhhLWE3M2EtMzMxMzI5MGZmOTA4IiwicmVhbG0iOiJtZWdhc2NhbnMiLCJldWxhc0FjY2VwdGVkIjpbInVlIiwibWhjIiwiZXBpY19jb250ZW50Il0sImlhdCI6MTcxNjM5MDQwMywiZXhwIjoxNzE2NDE5MjAzLCJpc3MiOiJxdWl4ZWwtc3NvLXByb2QiLCJqdGkiOiIxYjNkZWI0ZC0wZmQ0LTRiODItYjdiMC0xODM5ODQxOTkwM2IifQ.nHuHX5Mrsy6cvQr93fCIyix6rQjkbSmzo-EzC1KhCCvdAE3QGixww1h0DQm44tLRf5apSPgWZitdcOrdRU_fPknh2KAXg48tjygt4yZkwfY3X4GNNnNZdH9ujacjLJxc_HnD4cchMCqv_eyaGzVl2qzEd6DCjSbQ3AW_zk1prsyiBnlq2TtqchnvGru6WekKzdF-AYhWhvE8S4T_-OaQLtrTB5UQbHPBRya9EmXk7WQnbLwrNzEmNAT11E182WG12YStuQWnJFSOUQq9Lqt_kaRkBWgbgKLZizm3erKOdOIX4ARoIszDM2DNrMrn6qTXH0u55S6shMcQrVugWxbbYA&refreshToken=OTEwMmZiOTMtNzEwZS00ZDNhLWJkMTUtNDE4MTI1MzY3MTJk#/megascans/?search=wall.
+[2024.06.12-05.55.15:946][971]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Brick_Wall_xevtfjz/T_Brick_Wall_xevtfjz_2K_N.T_Brick_Wall_xevtfjz_2K_N (TFO_BC5, 1024x2048 x1x1x1) (Required Memory Estimate: 277.562475 MB), EncodeSpeed: Fast
+[2024.06.12-05.55.15:967][972]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Brick_Wall_xevtfjz/T_Brick_Wall_xevtfjz_2K_D.T_Brick_Wall_xevtfjz_2K_D (TFO_DXT1, 1024x2048 x1x1x1) (Required Memory Estimate: 194.479148 MB), EncodeSpeed: Fast
+[2024.06.12-05.55.16:159][976]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Brick_Wall_xevtfjz/T_BrickWall_xevtfjz_2K_ORDp.T_BrickWall_xevtfjz_2K_ORDp (TFO_DXT1, 1024x2048 x1x1x1) (Required Memory Estimate: 194.479148 MB), EncodeSpeed: Fast
+[2024.06.12-05.55.20:570][237]LogSlate: Window 'Content Browser' being destroyed
+[2024.06.12-05.55.20:577][237]LogSlate: Window 'Content Browser' being destroyed
+[2024.06.12-05.55.21:850][313]LogSlate: Window 'Bridge' being destroyed
+[2024.06.12-05.55.21:856][313]LogSlate: Window 'Bridge' being destroyed
+[2024.06.12-05.55.21:856][313]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2024.06.12-05.55.21:856][313]LogWebBrowser: Deleting browser for Url=file:///C:/Program%20Files/Epic%20Games/UE_5.3/Engine/Plugins/Bridge/ThirdParty/megascans/index.html?token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Impob255d2hlZWxlckBnbWFpbC5jb20iLCJzY29wZSI6WyJkZWZhdWx0OnVzZXIiLCJtZWdhc2NhbnM6dXNlciJdLCJlcGljQWNjb3VudElkIjoiMzNmYzRiNGU3YzgzNDEzODk1MDAyODRiMDA3NjY1MWYiLCJpc1VucmVhbEVVTEFBY2NlcHRlZCI6dHJ1ZSwiaXNFcGljQWNjb3VudCI6dHJ1ZSwicXVpeGVsQWNjb3VudElkIjoiZTMyMDk0NTYtMzUzOC00MzhhLWE3M2EtMzMxMzI5MGZmOTA4IiwicmVhbG0iOiJtZWdhc2NhbnMiLCJldWxhc0FjY2VwdGVkIjpbInVlIiwibWhjIiwiZXBpY19jb250ZW50Il0sImlhdCI6MTcxODE3MTMwOCwiZXhwIjoxNzE4MjAwMTA4LCJpc3MiOiJxdWl4ZWwtc3NvLXByb2QiLCJqdGkiOiJjODc1YmVlMy03YzVhLTRkZGUtOWQ0OC0yOTNhNjU4Yzk4OTkifQ.xwphv_YkYY-rfx3WvMmrDAxPIC1pdK4ZRUGXDZEmivD78k-ml2l7oyKyKV-QKX5Fl5x6rLExX7XkFyyLnSKUX1C-KTfYlc936MyTxj8eYCymqlc_FEZ1R846Mr5Q4YP2Z8APYptkGJtX4SqKMesAJdkvim3tqXblmEVZc7RtfrIK30TkToipGRq3qE4lVREugq0kxSAkWV6JUD0lfCR6Xde7i_6OzEz6oJtQPMH8a9ZBy60Bmr_HA512iOm3Iubs1q70wmVXR4QuflfIL_kg6J6lRIcR7KSj3JD58B-xQedh3FvOUoqMtse0FFYVcEBMi4VikGfKBh1Zx3rDxElVPw&refreshToken=YTJhZDkzZDktZTFhYS00MGY2LWEyY2QtMTdhOTU1NjhmZWNi#/megascans/?search=wall.
+[2024.06.12-05.55.54:856][903]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Megascans/3D_Assets/Castle_Wall_sctv3/MI_Castle_Wall_sctv3_2K.MI_Castle_Wall_sctv3_2K
+[2024.06.12-05.55.54:863][903]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.12-05.55.54:863][903]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.12-05.55.55:025][903]LogViewport: Scene viewport resized to 1335x894, mode Windowed.
+[2024.06.12-05.56.43:330][587]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-05.56.43:382][587]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY
+[2024.06.12-05.56.43:383][587]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/U98KGKQ41NJYFOGFQM8ZDYF3233A44480BF478DCBA47BEFAD0B2F5.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset'
+[2024.06.12-05.56.43:385][587]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416
+[2024.06.12-05.56.43:385][587]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/TS5OQ5CRUWFZYL1ZQ7I416CA4092F34FFBDB78B8F78F94B242C04C.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset'
+[2024.06.12-05.56.43:388][587]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/GJ/2C6NLIROC1TRGFR9B9CSAR
+[2024.06.12-05.56.43:388][587]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/2C6NLIROC1TRGFR9B9CSAREC77C80F47AD28DDF22CF39744645F33.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/GJ/2C6NLIROC1TRGFR9B9CSAR.uasset'
+[2024.06.12-05.56.43:390][587]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IZ/POI3J774TYTGAXNF6PXUOW
+[2024.06.12-05.56.43:390][587]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/POI3J774TYTGAXNF6PXUOW88BAC7AB4979A04494E02398BCE5A15A.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IZ/POI3J774TYTGAXNF6PXUOW.uasset'
+[2024.06.12-05.56.43:393][587]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/NA/B2HYYXKLEQCVZ1NTKFYQAQ
+[2024.06.12-05.56.43:393][587]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/B2HYYXKLEQCVZ1NTKFYQAQ30E2BA7E414264AD124E0E9380352484.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/NA/B2HYYXKLEQCVZ1NTKFYQAQ.uasset'
+[2024.06.12-05.56.43:395][587]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/06/SUF2HB9M86UAQ0T2SQR4X4
+[2024.06.12-05.56.43:396][587]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/SUF2HB9M86UAQ0T2SQR4X4A3742E14451F356CCFF85B95FB3D86EE.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/06/SUF2HB9M86UAQ0T2SQR4X4.uasset'
+[2024.06.12-05.56.43:398][587]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HN/R17E4AB0BOLKHIA8ZVM897
+[2024.06.12-05.56.43:398][587]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/R17E4AB0BOLKHIA8ZVM8975E066A30403F53D332C16CB78183A017.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HN/R17E4AB0BOLKHIA8ZVM897.uasset'
+[2024.06.12-05.56.43:405][587]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 4.91 sec)
+[2024.06.12-05.56.43:412][587]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.12-05.56.43:412][587]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_4
+[2024.06.12-05.56.43:412][587]LogContentValidation: Display: Validating /Script/Engine.DirectionalLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DirectionalLight_0
+[2024.06.12-05.56.43:412][587]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.InstancedFoliageActor_25600_0_0_0
+[2024.06.12-05.56.43:412][587]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_74563C48C04B6EFE01_1986395743
+[2024.06.12-05.56.43:412][587]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_74563C48C04B6FFE01_1192299920
+[2024.06.12-05.56.43:412][587]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_74563C48C04B6FFE01_1510880921
+[2024.06.12-05.56.43:412][587]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_74563C48C04B73FE01_1267808626
+[2024.06.12-05.58.13:247][335]LogSlate: Window 'Bridge' being destroyed
+[2024.06.12-05.58.13:253][335]LogSlate: Window 'Bridge' being destroyed
+[2024.06.12-05.58.13:255][335]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2024.06.12-05.58.13:255][335]LogWebBrowser: Deleting browser for Url=file:///C:/Program%20Files/Epic%20Games/UE_5.3/Engine/Plugins/Bridge/ThirdParty/megascans/index.html?token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Impob255d2hlZWxlckBnbWFpbC5jb20iLCJzY29wZSI6WyJkZWZhdWx0OnVzZXIiLCJtZWdhc2NhbnM6dXNlciJdLCJlcGljQWNjb3VudElkIjoiMzNmYzRiNGU3YzgzNDEzODk1MDAyODRiMDA3NjY1MWYiLCJpc1VucmVhbEVVTEFBY2NlcHRlZCI6dHJ1ZSwiaXNFcGljQWNjb3VudCI6dHJ1ZSwicXVpeGVsQWNjb3VudElkIjoiZTMyMDk0NTYtMzUzOC00MzhhLWE3M2EtMzMxMzI5MGZmOTA4IiwicmVhbG0iOiJtZWdhc2NhbnMiLCJldWxhc0FjY2VwdGVkIjpbInVlIiwibWhjIiwiZXBpY19jb250ZW50Il0sImlhdCI6MTcxODE3MTMwOCwiZXhwIjoxNzE4MjAwMTA4LCJpc3MiOiJxdWl4ZWwtc3NvLXByb2QiLCJqdGkiOiJjODc1YmVlMy03YzVhLTRkZGUtOWQ0OC0yOTNhNjU4Yzk4OTkifQ.xwphv_YkYY-rfx3WvMmrDAxPIC1pdK4ZRUGXDZEmivD78k-ml2l7oyKyKV-QKX5Fl5x6rLExX7XkFyyLnSKUX1C-KTfYlc936MyTxj8eYCymqlc_FEZ1R846Mr5Q4YP2Z8APYptkGJtX4SqKMesAJdkvim3tqXblmEVZc7RtfrIK30TkToipGRq3qE4lVREugq0kxSAkWV6JUD0lfCR6Xde7i_6OzEz6oJtQPMH8a9ZBy60Bmr_HA512iOm3Iubs1q70wmVXR4QuflfIL_kg6J6lRIcR7KSj3JD58B-xQedh3FvOUoqMtse0FFYVcEBMi4VikGfKBh1Zx3rDxElVPw&refreshToken=YTJhZDkzZDktZTFhYS00MGY2LWEyY2QtMTdhOTU1NjhmZWNi#/megascans/?search=wall.
+[2024.06.12-05.58.17:990][528]LogSlate: Window 'Content Browser' being destroyed
+[2024.06.12-05.58.17:995][528]LogSlate: Window 'Content Browser' being destroyed
+[2024.06.12-05.58.29:475][210]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Megascans/Surfaces/Brick_Wall_xevtfjz/MI_Brick_Wall_xevtfjz_2K.MI_Brick_Wall_xevtfjz_2K
+[2024.06.12-05.58.29:477][210]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.12-05.58.29:477][210]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.12-05.58.29:650][210]LogViewport: Scene viewport resized to 1335x894, mode Windowed.
+[2024.06.12-05.58.54:085][603]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2024.06.12-05.58.54:085][603]LogWebBrowser: Deleting browser for Url=https://quixel.com/?code=46e58a0c6bd247c8a4a1968ade446aaf.
+[2024.06.12-05.58.54:087][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.06.12-05.58.54:090][603]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY_Auto7
+[2024.06.12-05.58.54:090][603]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/U98KGKQ41NJYFOGFQM8ZDY_Auto796241FAB4B522E4BA16D16AF700FC648.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY_Auto7.uasset'
+[2024.06.12-05.58.54:090][603]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.009
+[2024.06.12-05.58.54:090][603]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.009
+[2024.06.12-06.00.06:508][436]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-06.00.06:587][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.06.12-06.00.06:632][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.06.12-06.00.06:634][436]LogSavePackage: Moving output files for package: /Game/Megascans/Surfaces/Brick_Wall_xevtfjz/MI_Brick_Wall_xevtfjz_2K
+[2024.06.12-06.00.06:635][436]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/MI_Brick_Wall_xevtfjz_2K1D086E0A4250A2B1B109CE887ECA6395.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Megascans/Surfaces/Brick_Wall_xevtfjz/MI_Brick_Wall_xevtfjz_2K.uasset'
+[2024.06.12-06.00.06:645][436]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 5.04 sec)
+[2024.06.12-06.00.06:652][436]AssetCheck: New page: Asset Save: MI_Brick_Wall_xevtfjz_2K
+[2024.06.12-06.00.06:652][436]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Megascans/Surfaces/Brick_Wall_xevtfjz/MI_Brick_Wall_xevtfjz_2K.MI_Brick_Wall_xevtfjz_2K
+[2024.06.12-06.00.09:707][617]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.06.12-06.00.09:708][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.12-06.00.11:248][707]LogMaterialEditor: Saving and Compiling material low_Neon_sign_BaseColor_Mat
+[2024.06.12-06.00.11:256][707]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-06.00.11:300][707]LogSavePackage: Moving output files for package: /Game/Models/NeonSignChilli/textures/low_Neon_sign_BaseColor_Mat
+[2024.06.12-06.00.11:300][707]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/low_Neon_sign_BaseColor_MatBB281F524361A2C538B97DA617E62F95.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Models/NeonSignChilli/textures/low_Neon_sign_BaseColor_Mat.uasset'
+[2024.06.12-06.00.11:307][707]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 5.09 sec)
+[2024.06.12-06.00.11:318][707]AssetCheck: New page: Asset Save: low_Neon_sign_BaseColor_Mat
+[2024.06.12-06.00.11:318][707]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Models/NeonSignChilli/textures/low_Neon_sign_BaseColor_Mat.low_Neon_sign_BaseColor_Mat
+[2024.06.12-06.00.34:455][167]LogViewport: Scene viewport resized to 837x716, mode Windowed.
+[2024.06.12-06.01.28:729][225]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-06.01.28:815][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.06.12-06.01.28:823][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.06.12-06.01.28:825][225]LogSavePackage: Moving output files for package: /Game/Megascans/Surfaces/Brick_Wall_xevtfjz/MI_Brick_Wall_xevtfjz_2K
+[2024.06.12-06.01.28:825][225]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/MI_Brick_Wall_xevtfjz_2K23E5C53D425B34CD9F4D6AAD64D3F4ED.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Megascans/Surfaces/Brick_Wall_xevtfjz/MI_Brick_Wall_xevtfjz_2K.uasset'
+[2024.06.12-06.01.28:832][225]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 5.20 sec)
+[2024.06.12-06.01.28:859][225]AssetCheck: New page: Asset Save: MI_Brick_Wall_xevtfjz_2K
+[2024.06.12-06.01.28:859][225]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Megascans/Surfaces/Brick_Wall_xevtfjz/MI_Brick_Wall_xevtfjz_2K.MI_Brick_Wall_xevtfjz_2K
+[2024.06.12-06.01.34:167][325]LogSlate: Window 'Message' being destroyed
+[2024.06.12-06.01.34:174][325]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Materials/BaseColor/M_BaseColor.M_BaseColor
+(Selecting 'No' will cause all changes to be lost!)
+[2024.06.12-06.01.34:182][326]LogAutomationController: Ignoring very large delta of 3.67 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.06.12-06.01.35:772][413]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-06.01.35:820][413]LogSavePackage: Moving output files for package: /Game/Megascans/Surfaces/Brick_Wall_xevtfjz/MI_Brick_Wall_xevtfjz_2K
+[2024.06.12-06.01.35:820][413]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/MI_Brick_Wall_xevtfjz_2KCA5E5AA34A861B3EC0E1E39D173D7C43.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Megascans/Surfaces/Brick_Wall_xevtfjz/MI_Brick_Wall_xevtfjz_2K.uasset'
+[2024.06.12-06.01.35:826][413]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 5.25 sec)
+[2024.06.12-06.01.35:832][413]AssetCheck: New page: Asset Save: MI_Brick_Wall_xevtfjz_2K
+[2024.06.12-06.01.35:832][413]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Megascans/Surfaces/Brick_Wall_xevtfjz/MI_Brick_Wall_xevtfjz_2K.MI_Brick_Wall_xevtfjz_2K
+[2024.06.12-06.01.43:587][515]LogSlate: Window 'Message' being destroyed
+[2024.06.12-06.01.43:593][515]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Materials/BaseColor/M_BaseColor.M_BaseColor
+(Selecting 'No' will cause all changes to be lost!)
+[2024.06.12-06.01.43:601][516]LogAutomationController: Ignoring very large delta of 6.05 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.06.12-06.01.44:729][567]LogViewport: Scene viewport resized to 234x355, mode Windowed.
+[2024.06.12-06.01.44:776][569]LogShaderCompilers: Display: ================================================
+[2024.06.12-06.01.44:776][569]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.12-06.01.44:776][569]LogShaderCompilers: Display: Total job queries 826, among them cache hits 662 (80.15%)
+[2024.06.12-06.01.44:776][569]LogShaderCompilers: Display: Tracking 164 distinct input hashes that result in 116 distinct outputs (70.73%)
+[2024.06.12-06.01.44:776][569]LogShaderCompilers: Display: RAM used: 3.80 MiB of 819.20 MiB budget. Usage: 0.46%
+[2024.06.12-06.01.44:776][569]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.12-06.01.44:776][569]LogShaderCompilers: Display: Shaders Compiled: 74
+[2024.06.12-06.01.44:776][569]LogShaderCompilers: Display: Jobs assigned 74, completed 74 (100%)
+[2024.06.12-06.01.44:776][569]LogShaderCompilers: Display: Average time worker was idle: 635.71 s
+[2024.06.12-06.01.44:776][569]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.47 s
+[2024.06.12-06.01.44:776][569]LogShaderCompilers: Display: Job execution time: average 0.43 s, max 0.87 s
+[2024.06.12-06.01.44:776][569]LogShaderCompilers: Display: Job life time (pending + execution): average 0.51 s, max 0.93
+[2024.06.12-06.01.44:776][569]LogShaderCompilers: Display: Shader code size: average 38.419 KiB, min 29.672 KiB, max 64.117 KiB
+[2024.06.12-06.01.44:777][569]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.15 s
+[2024.06.12-06.01.44:777][569]LogShaderCompilers: Display: Jobs were issued in 74 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.06.12-06.01.44:777][569]LogShaderCompilers: Display: Average processing rate: 7.29 jobs/sec
+[2024.06.12-06.01.44:777][569]LogShaderCompilers: Display: Total thread time: 17.599 s
+[2024.06.12-06.01.44:777][569]LogShaderCompilers: Display: Total thread preprocess time: 2.364 s
+[2024.06.12-06.01.44:777][569]LogShaderCompilers: Display: Percentage time preprocessing: 13.44%
+[2024.06.12-06.01.44:777][569]LogShaderCompilers: Display: Effective parallelization: 1.73 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.06.12-06.01.44:777][569]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.06.12-06.01.44:777][569]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.31 sec, max 0.34 sec, min 0.29 sec)
+[2024.06.12-06.01.44:777][569]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.29 sec, max 0.31 sec, min 0.27 sec)
+[2024.06.12-06.01.44:777][569]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.28 sec, max 0.31 sec, min 0.26 sec)
+[2024.06.12-06.01.44:777][569]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   15 times, average 0.28 sec, max 0.40 sec, min 0.19 sec)
+[2024.06.12-06.01.44:777][569]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   15 times, average 0.27 sec, max 0.36 sec, min 0.24 sec)
+[2024.06.12-06.01.44:777][569]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.06.12-06.01.44:777][569]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.48% of total time (compiled   15 times, average 0.28 sec, max 0.40 sec, min 0.19 sec)
+[2024.06.12-06.01.44:777][569]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.94% of total time (compiled   15 times, average 0.27 sec, max 0.36 sec, min 0.24 sec)
+[2024.06.12-06.01.44:777][569]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.64% of total time (compiled    9 times, average 0.27 sec, max 0.37 sec, min 0.24 sec)
+[2024.06.12-06.01.44:777][569]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.47% of total time (compiled    9 times, average 0.13 sec, max 0.20 sec, min 0.10 sec)
+[2024.06.12-06.01.44:777][569]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 3.56% of total time (compiled    2 times, average 0.31 sec, max 0.34 sec, min 0.29 sec)
+[2024.06.12-06.01.44:777][569]LogShaderCompilers: Display: ================================================
+[2024.06.12-06.01.46:013][641]LogMaterialEditor: Saving and Compiling material M_BaseColor
+[2024.06.12-06.01.46:085][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.06.12-06.01.46:266][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.06.12-06.01.46:276][641]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-06.01.46:348][641]LogSavePackage: Moving output files for package: /Game/Materials/BaseColor/M_BaseColor
+[2024.06.12-06.01.46:350][641]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/M_BaseColor0A23BCFE4D09A41205AF39ACEEFEB33A.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/BaseColor/M_BaseColor.uasset'
+[2024.06.12-06.01.46:361][641]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 5.34 sec)
+[2024.06.12-06.01.46:363][641]AssetCheck: New page: Asset Save: M_BaseColor
+[2024.06.12-06.01.46:363][641]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/BaseColor/M_BaseColor.M_BaseColor
+[2024.06.12-06.01.46:364][641]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.06.12-06.01.46:364][641]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.06.12-06.01.46:364][641]MaterialEditorStats: MaxSampler: 244 instructions
+[2024.06.12-06.01.46:364][641]MaterialEditorStats: Texture samplers: 3/16
+[2024.06.12-06.01.46:364][641]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.06.12-06.01.46:364][641]MaterialEditorStats: Shader Count: 16
+[2024.06.12-06.01.47:095][684]LogViewport: Scene viewport resized to 234x355, mode Windowed.
+[2024.06.12-06.01.48:665][775]LogMaterialEditor: Saving and Compiling material M_Emmisive
+[2024.06.12-06.01.49:053][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.06.12-06.01.49:216][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.06.12-06.01.49:228][775]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-06.01.49:299][775]LogSavePackage: Moving output files for package: /Game/Materials/EmmisiveColor/M_Emmisive
+[2024.06.12-06.01.49:300][775]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/M_Emmisive3D1031DB41656311963223A6F35F238A.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/EmmisiveColor/M_Emmisive.uasset'
+[2024.06.12-06.01.49:306][775]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 5.42 sec)
+[2024.06.12-06.01.49:318][775]AssetCheck: New page: Asset Save: M_Emmisive
+[2024.06.12-06.01.49:318][775]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/EmmisiveColor/M_Emmisive.M_Emmisive
+[2024.06.12-06.01.49:322][775]MaterialEditorStats: Base pass shader: 191 instructions
+[2024.06.12-06.01.49:322][775]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.06.12-06.01.49:322][775]MaterialEditorStats: MaxSampler: 239 instructions
+[2024.06.12-06.01.49:322][775]MaterialEditorStats: Texture samplers: 3/16
+[2024.06.12-06.01.49:322][775]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.06.12-06.01.49:322][775]MaterialEditorStats: Shader Count: 16
+[2024.06.12-06.01.49:843][806]LogViewport: Scene viewport resized to 837x716, mode Windowed.
+[2024.06.12-06.01.50:959][870]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-06.01.51:008][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.06.12-06.01.51:012][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.06.12-06.01.51:014][870]LogSavePackage: Moving output files for package: /Game/Materials/EmmisiveColor/M_Blue
+[2024.06.12-06.01.51:015][870]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/M_Blue591B7C1B4019F3947A5B3A8579D297D4.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/EmmisiveColor/M_Blue.uasset'
+[2024.06.12-06.01.51:021][870]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 5.48 sec)
+[2024.06.12-06.01.51:027][870]AssetCheck: New page: Asset Save: M_Blue
+[2024.06.12-06.01.51:027][870]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/EmmisiveColor/M_Blue.M_Blue
+[2024.06.12-06.01.51:774][912]LogViewport: Scene viewport resized to 837x716, mode Windowed.
+[2024.06.12-06.01.52:489][953]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-06.01.52:535][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.06.12-06.01.52:540][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.06.12-06.01.52:541][953]LogSavePackage: Moving output files for package: /Game/Materials/EmmisiveColor/M_Pink
+[2024.06.12-06.01.52:541][953]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/M_PinkD1C415D646ACDF27620A62BDC93EC127.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/EmmisiveColor/M_Pink.uasset'
+[2024.06.12-06.01.52:548][953]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 5.54 sec)
+[2024.06.12-06.01.52:558][953]AssetCheck: New page: Asset Save: M_Pink
+[2024.06.12-06.01.52:558][953]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/EmmisiveColor/M_Pink.M_Pink
+[2024.06.12-06.01.52:990][977]LogViewport: Scene viewport resized to 837x716, mode Windowed.
+[2024.06.12-06.01.54:321][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-06.01.54:363][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/EmmisiveColor/M_Red" FILE="../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/EmmisiveColor/M_Red.uasset" SILENT=true
+[2024.06.12-06.01.54:366][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.06.12-06.01.54:370][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.12-06.01.54:372][ 55]LogSavePackage: Moving output files for package: /Game/Materials/EmmisiveColor/M_Red
+[2024.06.12-06.01.54:372][ 55]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/M_Red7D7C9BEC41207999766E95A7861C22AD.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/EmmisiveColor/M_Red.uasset'
+[2024.06.12-06.01.54:378][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 5.59 sec)
+[2024.06.12-06.01.54:386][ 55]AssetCheck: New page: Asset Save: M_Red
+[2024.06.12-06.01.54:386][ 55]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/EmmisiveColor/M_Red.M_Red
+[2024.06.12-06.01.54:687][ 72]LogViewport: Scene viewport resized to 837x716, mode Windowed.
+[2024.06.12-06.01.55:455][116]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-06.01.55:503][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.06.12-06.01.55:507][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.06.12-06.01.55:509][116]LogSavePackage: Moving output files for package: /Game/Materials/EmmisiveColor/M_Yellow
+[2024.06.12-06.01.55:510][116]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/M_YellowC6BAE71C41BE3A64D54FA385F8504035.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/EmmisiveColor/M_Yellow.uasset'
+[2024.06.12-06.01.55:515][116]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 5.65 sec)
+[2024.06.12-06.01.55:528][116]AssetCheck: New page: Asset Save: M_Yellow
+[2024.06.12-06.01.55:528][116]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/EmmisiveColor/M_Yellow.M_Yellow
+[2024.06.12-06.01.55:961][141]LogViewport: Scene viewport resized to 837x716, mode Windowed.
+[2024.06.12-06.01.56:927][197]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-06.01.56:975][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.06.12-06.01.56:980][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.12-06.01.56:982][197]LogSavePackage: Moving output files for package: /Game/Materials/EmmisiveColor/M_Orange
+[2024.06.12-06.01.56:983][197]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/M_Orange6E44E35C46B9266F6F6AC0ADEDBC2FF7.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/EmmisiveColor/M_Orange.uasset'
+[2024.06.12-06.01.56:989][197]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 5.71 sec)
+[2024.06.12-06.01.56:996][197]AssetCheck: New page: Asset Save: M_Orange
+[2024.06.12-06.01.56:996][197]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/EmmisiveColor/M_Orange.M_Orange
+[2024.06.12-06.01.57:431][221]LogViewport: Scene viewport resized to 837x716, mode Windowed.
+[2024.06.12-06.01.58:177][264]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-06.01.58:226][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.06.12-06.01.58:230][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.06.12-06.01.58:231][264]LogSavePackage: Moving output files for package: /Game/Materials/EmmisiveColor/M_Purple
+[2024.06.12-06.01.58:231][264]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/M_PurpleE729CAA34FB7C62ABE1C518BD67E47E7.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/EmmisiveColor/M_Purple.uasset'
+[2024.06.12-06.01.58:238][264]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 5.78 sec)
+[2024.06.12-06.01.58:268][264]AssetCheck: New page: Asset Save: M_Purple
+[2024.06.12-06.01.58:268][264]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/EmmisiveColor/M_Purple.M_Purple
+[2024.06.12-06.01.58:653][286]LogViewport: Scene viewport resized to 234x355, mode Windowed.
+[2024.06.12-06.01.59:791][352]LogMaterialEditor: Saving and Compiling material low_Neon_sign_BaseColor_Mat
+[2024.06.12-06.01.59:793][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-06.01.59:838][352]LogSavePackage: Moving output files for package: /Game/Models/NeonSignChilli/textures/low_Neon_sign_BaseColor_Mat
+[2024.06.12-06.01.59:839][352]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/low_Neon_sign_BaseColor_Mat9A51DBB54DA0E163F879E292EF053D3C.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Models/NeonSignChilli/textures/low_Neon_sign_BaseColor_Mat.uasset'
+[2024.06.12-06.01.59:845][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 5.83 sec)
+[2024.06.12-06.01.59:857][352]AssetCheck: New page: Asset Save: low_Neon_sign_BaseColor_Mat
+[2024.06.12-06.01.59:857][352]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Models/NeonSignChilli/textures/low_Neon_sign_BaseColor_Mat.low_Neon_sign_BaseColor_Mat
+[2024.06.12-06.02.01:282][435]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-06.02.01:324][435]LogSavePackage: Moving output files for package: /Game/Megascans/Surfaces/Brick_Wall_xevtfjz/MI_Brick_Wall_xevtfjz_2K
+[2024.06.12-06.02.01:325][435]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/MI_Brick_Wall_xevtfjz_2K0CA428F84941D92DC5D5C6B5015A11B7.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Megascans/Surfaces/Brick_Wall_xevtfjz/MI_Brick_Wall_xevtfjz_2K.uasset'
+[2024.06.12-06.02.01:333][435]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 5.88 sec)
+[2024.06.12-06.02.01:338][435]AssetCheck: New page: Asset Save: MI_Brick_Wall_xevtfjz_2K
+[2024.06.12-06.02.01:339][435]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Megascans/Surfaces/Brick_Wall_xevtfjz/MI_Brick_Wall_xevtfjz_2K.MI_Brick_Wall_xevtfjz_2K
+[2024.06.12-06.02.02:277][480]LogSlate: Window 'MI_Brick_Wall_xevtfjz_2K' being destroyed
+[2024.06.12-06.02.02:284][480]LogSlate: Window 'MI_Brick_Wall_xevtfjz_2K' being destroyed
+[2024.06.12-06.02.02:316][480]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.06.12-06.02.02:316][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.12-06.02.02:361][480]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.06.12-06.02.02:362][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.12-06.02.02:393][480]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.06.12-06.02.02:393][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.12-06.02.02:412][480]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.06.12-06.02.02:412][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.12-06.02.02:429][480]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.06.12-06.02.02:429][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.12-06.02.02:441][480]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.06.12-06.02.02:441][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.12-06.02.02:454][480]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.06.12-06.02.02:454][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.12-06.02.02:466][480]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.06.12-06.02.02:466][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.12-06.02.02:485][480]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.06.12-06.02.02:485][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.12-06.02.02:502][480]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.06.12-06.02.02:502][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.12-06.05.38:520][868]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Megascans/Surfaces/Brick_Wall_xevtfjz/MI_Brick_Wall_xevtfjz_2K.MI_Brick_Wall_xevtfjz_2K
+[2024.06.12-06.05.38:523][868]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.12-06.05.38:523][868]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.12-06.05.38:709][868]LogViewport: Scene viewport resized to 837x716, mode Windowed.
+[2024.06.12-06.08.54:787][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.06.12-06.08.54:798][281]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.026
+[2024.06.12-06.08.54:799][281]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Surfaces/Brick_Wall_xevtfjz/MI_Brick_Wall_xevtfjz_2K] ([1] browsable assets)...
+[2024.06.12-06.08.55:038][281]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Megascans/Surfaces/Brick_Wall_xevtfjz/MI_Brick_Wall_xevtfjz_2K.MI_Brick_Wall_xevtfjz_2K]
+[2024.06.12-06.08.55:038][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/Brick_Wall_xevtfjz/MI_Brick_Wall_xevtfjz_2K]
+[2024.06.12-06.08.55:045][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.06.12-06.08.55:059][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.12-06.08.55:062][281]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Megascans/Surfaces/Brick_Wall_xevtfjz/MI_Brick_Wall_xevtfjz_2K_Auto8
+[2024.06.12-06.08.55:062][281]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/MI_Brick_Wall_xevtfjz_2K_Auto8EF203C0D41F0261EB70680BE1580DAF7.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/Autosaves/Game/Megascans/Surfaces/Brick_Wall_xevtfjz/MI_Brick_Wall_xevtfjz_2K_Auto8.uasset'
+[2024.06.12-06.08.55:062][281]LogFileHelpers: Auto-saving content packages took 0.264
+[2024.06.12-06.20.03:890][288]LogDerivedDataCache: C:/Users/jhony/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.149 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2175 files in 3371 folders with total size 275 MiB.
+[2024.06.12-06.36.32:039][256]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-06.36.32:175][256]LogSavePackage: Moving output files for package: /Game/Megascans/Surfaces/Brick_Wall_xevtfjz/MI_Brick_Wall_xevtfjz_2K
+[2024.06.12-06.36.32:175][256]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/MI_Brick_Wall_xevtfjz_2K4A586397490ACC6A7C4413AA71215169.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Megascans/Surfaces/Brick_Wall_xevtfjz/MI_Brick_Wall_xevtfjz_2K.uasset'
+[2024.06.12-06.36.32:183][256]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 6.02 sec)
+[2024.06.12-06.36.32:190][256]AssetCheck: New page: Asset Save: MI_Brick_Wall_xevtfjz_2K
+[2024.06.12-06.36.32:190][256]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Megascans/Surfaces/Brick_Wall_xevtfjz/MI_Brick_Wall_xevtfjz_2K.MI_Brick_Wall_xevtfjz_2K
+[2024.06.12-06.36.34:665][402]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-06.36.34:713][402]LogSavePackage: Moving output files for package: /Game/Megascans/Surfaces/Brick_Wall_xevtfjz/MI_Brick_Wall_xevtfjz_2K
+[2024.06.12-06.36.34:713][402]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/MI_Brick_Wall_xevtfjz_2K1C24D9A64F8314A4CF53E08D9A0CD99B.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Megascans/Surfaces/Brick_Wall_xevtfjz/MI_Brick_Wall_xevtfjz_2K.uasset'
+[2024.06.12-06.36.34:720][402]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 6.07 sec)
+[2024.06.12-06.36.34:724][402]AssetCheck: New page: Asset Save: MI_Brick_Wall_xevtfjz_2K
+[2024.06.12-06.36.34:724][402]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Megascans/Surfaces/Brick_Wall_xevtfjz/MI_Brick_Wall_xevtfjz_2K.MI_Brick_Wall_xevtfjz_2K
+[2024.06.12-06.36.35:557][452]LogSlate: Window 'MI_Brick_Wall_xevtfjz_2K' being destroyed
+[2024.06.12-06.36.35:562][452]LogSlate: Window 'MI_Brick_Wall_xevtfjz_2K' being destroyed
+[2024.06.12-06.36.35:572][452]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.06.12-06.36.35:572][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.12-06.36.37:370][555]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-06.36.37:414][555]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY
+[2024.06.12-06.36.37:415][555]LogSavePackage: Moving '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/U98KGKQ41NJYFOGFQM8ZDYB18A87C747970C4877B2E295972CF13F.tmp' to '../../../../../../Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset'
+[2024.06.12-06.36.37:424][555]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 6.13 sec)
+[2024.06.12-06.36.37:426][555]AssetCheck: New page: Asset Save: StaticMeshActor_4
+[2024.06.12-06.36.37:426][555]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_4
+[2024.06.12-06.36.42:866][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.06.12-06.36.42:873][881]LogStall: Shutdown...
+[2024.06.12-06.36.42:879][881]LogStall: Shutdown complete.
+[2024.06.12-06.36.42:909][881]LogSlate: Window 'ElecManUnreal - Unreal Editor' being destroyed
+[2024.06.12-06.36.43:019][881]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2024.06.12-06.36.43:055][882]Cmd: QUIT_EDITOR
+[2024.06.12-06.36.43:055][882]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.06.12-06.36.43:062][882]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.06.12-06.36.43:063][882]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.06.12-06.36.43:063][882]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.06.12-06.36.43:068][882]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.12-06.36.43:071][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.12-06.36.43:075][882]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.06.12-06.36.43:106][882]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.06.12-06.36.43:314][882]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.06.12-06.36.43:314][882]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.06.12-06.36.43:314][882]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2024.06.12-06.36.43:315][882]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.06.12-06.36.43:323][882]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.06.12-06.36.43:325][882]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.06.12-06.36.43:342][882]LogAudio: Display: Audio Device Manager Shutdown
+[2024.06.12-06.36.43:348][882]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.06.12-06.36.43:349][882]LogExit: Preparing to exit.
+[2024.06.12-06.36.43:429][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.06.12-06.36.44:067][882]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.06.12-06.36.44:068][882]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.06.12-06.36.44:068][882]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.06.12-06.36.44:068][882]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.06.12-06.36.44:068][882]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.06.12-06.36.44:068][882]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.06.12-06.36.44:068][882]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.06.12-06.36.44:107][882]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.06.12-06.36.44:107][882]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.06.12-06.36.44:182][882]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.06.12-06.36.44:284][882]LogExit: Editor shut down
+[2024.06.12-06.36.44:295][882]LogExit: Transaction tracking system shut down
+[2024.06.12-06.36.44:840][882]LogExit: Object subsystem successfully closed.
+[2024.06.12-06.36.44:869][882]LogShaderCompilers: Display: ================================================
+[2024.06.12-06.36.44:869][882]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.12-06.36.44:869][882]LogShaderCompilers: Display: Total job queries 866, among them cache hits 702 (81.06%)
+[2024.06.12-06.36.44:869][882]LogShaderCompilers: Display: Tracking 164 distinct input hashes that result in 116 distinct outputs (70.73%)
+[2024.06.12-06.36.44:869][882]LogShaderCompilers: Display: RAM used: 3.80 MiB of 819.20 MiB budget. Usage: 0.46%
+[2024.06.12-06.36.44:869][882]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.12-06.36.44:869][882]LogShaderCompilers: Display: Shaders Compiled: 74
+[2024.06.12-06.36.44:869][882]LogShaderCompilers: Display: Jobs assigned 74, completed 74 (100%)
+[2024.06.12-06.36.44:869][882]LogShaderCompilers: Display: Average time worker was idle: 635.71 s
+[2024.06.12-06.36.44:869][882]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.47 s
+[2024.06.12-06.36.44:869][882]LogShaderCompilers: Display: Job execution time: average 0.43 s, max 0.87 s
+[2024.06.12-06.36.44:869][882]LogShaderCompilers: Display: Job life time (pending + execution): average 0.51 s, max 0.93
+[2024.06.12-06.36.44:869][882]LogShaderCompilers: Display: Shader code size: average 38.419 KiB, min 29.672 KiB, max 64.117 KiB
+[2024.06.12-06.36.44:869][882]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.15 s
+[2024.06.12-06.36.44:869][882]LogShaderCompilers: Display: Jobs were issued in 74 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.06.12-06.36.44:869][882]LogShaderCompilers: Display: Average processing rate: 7.29 jobs/sec
+[2024.06.12-06.36.44:869][882]LogShaderCompilers: Display: Total thread time: 17.599 s
+[2024.06.12-06.36.44:869][882]LogShaderCompilers: Display: Total thread preprocess time: 2.364 s
+[2024.06.12-06.36.44:869][882]LogShaderCompilers: Display: Percentage time preprocessing: 13.44%
+[2024.06.12-06.36.44:869][882]LogShaderCompilers: Display: Effective parallelization: 1.73 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.06.12-06.36.44:869][882]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.06.12-06.36.44:869][882]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.31 sec, max 0.34 sec, min 0.29 sec)
+[2024.06.12-06.36.44:869][882]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.29 sec, max 0.31 sec, min 0.27 sec)
+[2024.06.12-06.36.44:869][882]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.28 sec, max 0.31 sec, min 0.26 sec)
+[2024.06.12-06.36.44:869][882]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   15 times, average 0.28 sec, max 0.40 sec, min 0.19 sec)
+[2024.06.12-06.36.44:870][882]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   15 times, average 0.27 sec, max 0.36 sec, min 0.24 sec)
+[2024.06.12-06.36.44:870][882]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.06.12-06.36.44:870][882]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.48% of total time (compiled   15 times, average 0.28 sec, max 0.40 sec, min 0.19 sec)
+[2024.06.12-06.36.44:870][882]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.94% of total time (compiled   15 times, average 0.27 sec, max 0.36 sec, min 0.24 sec)
+[2024.06.12-06.36.44:870][882]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.64% of total time (compiled    9 times, average 0.27 sec, max 0.37 sec, min 0.24 sec)
+[2024.06.12-06.36.44:870][882]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.47% of total time (compiled    9 times, average 0.13 sec, max 0.20 sec, min 0.10 sec)
+[2024.06.12-06.36.44:870][882]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 3.56% of total time (compiled    2 times, average 0.31 sec, max 0.34 sec, min 0.29 sec)
+[2024.06.12-06.36.44:870][882]LogShaderCompilers: Display: ================================================
+[2024.06.12-06.36.44:941][882]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.06.12-06.36.45:269][882]LogVirtualization: UE::Virtualization was shutdown
+[2024.06.12-06.36.45:459][882]LogModuleManager: Shutting down and abandoning module WebBrowser (1058)
+[2024.06.12-06.36.45:528][882]LogModuleManager: Shutting down and abandoning module TextureEditor (1056)
+[2024.06.12-06.36.45:528][882]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (1054)
+[2024.06.12-06.36.45:528][882]LogModuleManager: Shutting down and abandoning module MaterialEditor (1052)
+[2024.06.12-06.36.45:528][882]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1050)
+[2024.06.12-06.36.45:528][882]LogModuleManager: Shutting down and abandoning module AddContentDialog (1048)
+[2024.06.12-06.36.45:541][882]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1047)
+[2024.06.12-06.36.45:541][882]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1044)
+[2024.06.12-06.36.45:541][882]LogModuleManager: Shutting down and abandoning module SceneOutliner (1042)
+[2024.06.12-06.36.45:541][882]LogModuleManager: Shutting down and abandoning module StatusBar (1040)
+[2024.06.12-06.36.45:541][882]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1038)
+[2024.06.12-06.36.45:541][882]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1036)
+[2024.06.12-06.36.45:542][882]LogModuleManager: Shutting down and abandoning module DataLayerEditor (1034)
+[2024.06.12-06.36.45:542][882]LogModuleManager: Shutting down and abandoning module StatsViewer (1032)
+[2024.06.12-06.36.45:542][882]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1030)
+[2024.06.12-06.36.45:542][882]LogModuleManager: Shutting down and abandoning module AutomationWorker (1028)
+[2024.06.12-06.36.45:542][882]LogModuleManager: Shutting down and abandoning module PlanarCut (1026)
+[2024.06.12-06.36.45:543][882]LogModuleManager: Shutting down and abandoning module FractureEngine (1024)
+[2024.06.12-06.36.45:543][882]LogModuleManager: Shutting down and abandoning module CharacterAI (1022)
+[2024.06.12-06.36.45:543][882]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (1020)
+[2024.06.12-06.36.45:546][882]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (1018)
+[2024.06.12-06.36.45:547][882]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (1016)
+[2024.06.12-06.36.45:549][882]LogModuleManager: Shutting down and abandoning module TextureAlignMode (1014)
+[2024.06.12-06.36.45:550][882]LogModuleManager: Shutting down and abandoning module BspMode (1012)
+[2024.06.12-06.36.45:550][882]LogModuleManager: Shutting down and abandoning module GeometryMode (1010)
+[2024.06.12-06.36.45:550][882]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (1008)
+[2024.06.12-06.36.45:552][882]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (1006)
+[2024.06.12-06.36.45:553][882]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (1004)
+[2024.06.12-06.36.45:554][882]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (1002)
+[2024.06.12-06.36.45:554][882]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (1000)
+[2024.06.12-06.36.45:554][882]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (998)
+[2024.06.12-06.36.45:554][882]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (996)
+[2024.06.12-06.36.45:555][882]LogModuleManager: Shutting down and abandoning module WebMMedia (994)
+[2024.06.12-06.36.45:555][882]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (992)
+[2024.06.12-06.36.45:555][882]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (990)
+[2024.06.12-06.36.45:555][882]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (988)
+[2024.06.12-06.36.45:555][882]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (986)
+[2024.06.12-06.36.45:555][882]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (984)
+[2024.06.12-06.36.45:555][882]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (982)
+[2024.06.12-06.36.45:557][882]LogModuleManager: Shutting down and abandoning module SequenceRecorder (981)
+[2024.06.12-06.36.45:558][882]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (978)
+[2024.06.12-06.36.45:558][882]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (976)
+[2024.06.12-06.36.45:558][882]LogModuleManager: Shutting down and abandoning module IKRigEditor (974)
+[2024.06.12-06.36.45:560][882]LogModuleManager: Shutting down and abandoning module ControlRigEditor (972)
+[2024.06.12-06.36.45:562][882]LogModuleManager: Shutting down and abandoning module WaveTableEditor (970)
+[2024.06.12-06.36.45:562][882]LogModuleManager: Shutting down and abandoning module RigVMEditor (968)
+[2024.06.12-06.36.45:562][882]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (966)
+[2024.06.12-06.36.45:562][882]LogModuleManager: Shutting down and abandoning module SmartSnapping (964)
+[2024.06.12-06.36.45:562][882]LogModuleManager: Shutting down and abandoning module GooglePADEditor (962)
+[2024.06.12-06.36.45:562][882]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (960)
+[2024.06.12-06.36.45:562][882]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (958)
+[2024.06.12-06.36.45:562][882]LogModuleManager: Shutting down and abandoning module SessionServices (956)
+[2024.06.12-06.36.45:563][882]LogModuleManager: Shutting down and abandoning module MeshPaint (954)
+[2024.06.12-06.36.45:564][882]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (952)
+[2024.06.12-06.36.45:564][882]LogModuleManager: Shutting down and abandoning module PlacementMode (951)
+[2024.06.12-06.36.45:565][882]LogModuleManager: Shutting down and abandoning module FoliageEdit (948)
+[2024.06.12-06.36.45:565][882]LogModuleManager: Shutting down and abandoning module LandscapeEditor (946)
+[2024.06.12-06.36.45:570][882]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (944)
+[2024.06.12-06.36.45:570][882]LogModuleManager: Shutting down and abandoning module ActorPickerMode (942)
+[2024.06.12-06.36.45:570][882]LogModuleManager: Shutting down and abandoning module ViewportSnapping (940)
+[2024.06.12-06.36.45:570][882]LogModuleManager: Shutting down and abandoning module EditorWidgets (938)
+[2024.06.12-06.36.45:570][882]LogModuleManager: Shutting down and abandoning module ViewportInteraction (936)
+[2024.06.12-06.36.45:570][882]LogModuleManager: Shutting down and abandoning module ClothPainter (934)
+[2024.06.12-06.36.45:572][882]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (933)
+[2024.06.12-06.36.45:573][882]LogModuleManager: Shutting down and abandoning module WidgetRegistration (930)
+[2024.06.12-06.36.45:574][882]LogModuleManager: Shutting down and abandoning module LogVisualizer (928)
+[2024.06.12-06.36.45:577][882]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (926)
+[2024.06.12-06.36.45:577][882]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (924)
+[2024.06.12-06.36.45:577][882]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (923)
+[2024.06.12-06.36.45:579][882]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (921)
+[2024.06.12-06.36.46:118][882]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (918)
+[2024.06.12-06.36.46:118][882]LogModuleManager: Shutting down and abandoning module MacPlatformEditor (916)
+[2024.06.12-06.36.46:118][882]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (914)
+[2024.06.12-06.36.46:118][882]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (912)
+[2024.06.12-06.36.46:118][882]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (910)
+[2024.06.12-06.36.46:119][882]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (908)
+[2024.06.12-06.36.46:119][882]LogModuleManager: Shutting down and abandoning module AnimationSettings (906)
+[2024.06.12-06.36.46:119][882]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (904)
+[2024.06.12-06.36.46:119][882]LogModuleManager: Shutting down and abandoning module CSVtoSVG (902)
+[2024.06.12-06.36.46:119][882]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (900)
+[2024.06.12-06.36.46:119][882]LogModuleManager: Shutting down and abandoning module EditorConfig (898)
+[2024.06.12-06.36.46:119][882]LogModuleManager: Shutting down and abandoning module EditorFramework (896)
+[2024.06.12-06.36.46:119][882]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (894)
+[2024.06.12-06.36.46:121][882]LogModuleManager: Shutting down and abandoning module TraceInsights (892)
+[2024.06.12-06.36.46:130][882]MemoryProfiler: Shutdown
+[2024.06.12-06.36.46:130][882]NetworkingProfiler: Shutdown
+[2024.06.12-06.36.46:132][882]LoadingProfiler: Shutdown
+[2024.06.12-06.36.46:133][882]TimingProfiler: Shutdown
+[2024.06.12-06.36.46:139][882]LogModuleManager: Shutting down and abandoning module TraceServices (891)
+[2024.06.12-06.36.46:141][882]LogModuleManager: Shutting down and abandoning module TraceAnalysis (890)
+[2024.06.12-06.36.46:141][882]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (886)
+[2024.06.12-06.36.46:141][882]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (885)
+[2024.06.12-06.36.46:141][882]LogModuleManager: Shutting down and abandoning module InputBindingEditor (882)
+[2024.06.12-06.36.46:141][882]LogModuleManager: Shutting down and abandoning module MergeActors (880)
+[2024.06.12-06.36.46:143][882]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (878)
+[2024.06.12-06.36.46:143][882]LogModuleManager: Shutting down and abandoning module LocalizationService (877)
+[2024.06.12-06.36.46:143][882]LogModuleManager: Shutting down and abandoning module HardwareTargeting (874)
+[2024.06.12-06.36.46:143][882]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (872)
+[2024.06.12-06.36.46:144][882]LogModuleManager: Shutting down and abandoning module UndoHistory (870)
+[2024.06.12-06.36.46:144][882]LogModuleManager: Shutting down and abandoning module XmlParser (868)
+[2024.06.12-06.36.46:144][882]LogModuleManager: Shutting down and abandoning module Blutility (866)
+[2024.06.12-06.36.46:145][882]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (864)
+[2024.06.12-06.36.46:145][882]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (863)
+[2024.06.12-06.36.46:147][882]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (860)
+[2024.06.12-06.36.46:147][882]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (859)
+[2024.06.12-06.36.46:147][882]LogModuleManager: Shutting down and abandoning module SettingsEditor (856)
+[2024.06.12-06.36.46:148][882]LogModuleManager: Shutting down and abandoning module ProjectLauncher (854)
+[2024.06.12-06.36.46:148][882]LogModuleManager: Shutting down and abandoning module SessionFrontend (852)
+[2024.06.12-06.36.46:149][882]LogModuleManager: Shutting down and abandoning module ProfilerClient (850)
+[2024.06.12-06.36.46:149][882]LogModuleManager: Shutting down and abandoning module DeviceManager (848)
+[2024.06.12-06.36.46:150][882]LogModuleManager: Shutting down and abandoning module AutomationController (846)
+[2024.06.12-06.36.46:151][882]LogModuleManager: Shutting down and abandoning module AutomationWindow (844)
+[2024.06.12-06.36.46:154][882]LogModuleManager: Shutting down and abandoning module Layers (842)
+[2024.06.12-06.36.46:155][882]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (840)
+[2024.06.12-06.36.46:156][882]LogModuleManager: Shutting down and abandoning module DetailCustomizations (838)
+[2024.06.12-06.36.46:156][882]LogModuleManager: Shutting down and abandoning module PackagesDialog (836)
+[2024.06.12-06.36.46:156][882]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (834)
+[2024.06.12-06.36.46:159][882]LogModuleManager: Shutting down and abandoning module Persona (832)
+[2024.06.12-06.36.46:160][882]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (831)
+[2024.06.12-06.36.46:160][882]LogModuleManager: Shutting down and abandoning module Kismet (828)
+[2024.06.12-06.36.46:165][882]LogModuleManager: Shutting down and abandoning module KismetWidgets (827)
+[2024.06.12-06.36.46:165][882]LogModuleManager: Shutting down and abandoning module GraphEditor (824)
+[2024.06.12-06.36.46:168][882]LogModuleManager: Shutting down and abandoning module StructViewer (822)
+[2024.06.12-06.36.46:168][882]LogModuleManager: Shutting down and abandoning module ClassViewer (820)
+[2024.06.12-06.36.46:168][882]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (818)
+[2024.06.12-06.36.46:169][882]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (816)
+[2024.06.12-06.36.46:169][882]LogModuleManager: Shutting down and abandoning module SourceControlWindows (814)
+[2024.06.12-06.36.46:169][882]LogModuleManager: Shutting down and abandoning module OutputLog (812)
+[2024.06.12-06.36.46:172][882]LogModuleManager: Shutting down and abandoning module Documentation (810)
+[2024.06.12-06.36.46:173][882]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (808)
+[2024.06.12-06.36.46:173][882]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (806)
+[2024.06.12-06.36.46:173][882]LogModuleManager: Shutting down and abandoning module MovieScene (804)
+[2024.06.12-06.36.46:175][882]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (802)
+[2024.06.12-06.36.46:175][882]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (800)
+[2024.06.12-06.36.46:175][882]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (798)
+[2024.06.12-06.36.46:175][882]LogModuleManager: Shutting down and abandoning module AudioMixer (797)
+[2024.06.12-06.36.46:175][882]LogModuleManager: Shutting down and abandoning module AudioMixerCore (796)
+[2024.06.12-06.36.46:175][882]LogModuleManager: Shutting down and abandoning module LauncherPlatform (792)
+[2024.06.12-06.36.46:175][882]LogModuleManager: Shutting down and abandoning module AnalyticsET (790)
+[2024.06.12-06.36.46:175][882]LogModuleManager: Shutting down and abandoning module PortalServices (788)
+[2024.06.12-06.36.46:175][882]LogModuleManager: Shutting down and abandoning module PortalRpc (786)
+[2024.06.12-06.36.46:175][882]LogModuleManager: Shutting down and abandoning module MessagingRpc (784)
+[2024.06.12-06.36.46:175][882]LogModuleManager: Shutting down and abandoning module AIModule (782)
+[2024.06.12-06.36.46:176][882]LogModuleManager: Shutting down and abandoning module GameplayDebugger (781)
+[2024.06.12-06.36.46:177][882]LogModuleManager: Shutting down and abandoning module AITestSuite (779)
+[2024.06.12-06.36.46:177][882]LogModuleManager: Shutting down and abandoning module NavigationSystem (777)
+[2024.06.12-06.36.46:177][882]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (774)
+[2024.06.12-06.36.46:178][882]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (772)
+[2024.06.12-06.36.46:178][882]LogModuleManager: Shutting down and abandoning module TypedElementFramework (770)
+[2024.06.12-06.36.46:178][882]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (768)
+[2024.06.12-06.36.46:178][882]LogModuleManager: Shutting down and abandoning module ProfilerService (766)
+[2024.06.12-06.36.46:271][882]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (764)
+[2024.06.12-06.36.46:273][882]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (762)
+[2024.06.12-06.36.46:273][882]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (760)
+[2024.06.12-06.36.46:278][882]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (758)
+[2024.06.12-06.36.46:279][882]LogModuleManager: Shutting down and abandoning module TakesCore (756)
+[2024.06.12-06.36.46:279][882]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (754)
+[2024.06.12-06.36.46:279][882]LogModuleManager: Shutting down and abandoning module MegascansPlugin (752)
+[2024.06.12-06.36.46:280][882]LogModuleManager: Shutting down and abandoning module Bridge (750)
+[2024.06.12-06.36.46:280][882]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (748)
+[2024.06.12-06.36.46:280][882]LogModuleManager: Shutting down and abandoning module LightMixer (746)
+[2024.06.12-06.36.46:281][882]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (744)
+[2024.06.12-06.36.46:281][882]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (742)
+[2024.06.12-06.36.46:281][882]LogModuleManager: Shutting down and abandoning module CollectionManager (741)
+[2024.06.12-06.36.46:282][882]LogModuleManager: Shutting down and abandoning module PortableObjectFileDataSource (738)
+[2024.06.12-06.36.46:282][882]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (736)
+[2024.06.12-06.36.46:283][882]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (734)
+[2024.06.12-06.36.46:284][882]LogModuleManager: Shutting down and abandoning module UObjectPlugin (732)
+[2024.06.12-06.36.46:284][882]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (730)
+[2024.06.12-06.36.46:284][882]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (728)
+[2024.06.12-06.36.46:284][882]LogModuleManager: Shutting down and abandoning module PluginUtils (726)
+[2024.06.12-06.36.46:284][882]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (724)
+[2024.06.12-06.36.46:284][882]LogModuleManager: Shutting down and abandoning module N10XSourceCodeAccess (722)
+[2024.06.12-06.36.46:286][882]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (720)
+[2024.06.12-06.36.46:286][882]LogModuleManager: Shutting down and abandoning module GitSourceControl (718)
+[2024.06.12-06.36.46:286][882]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (716)
+[2024.06.12-06.36.46:286][882]LogModuleManager: Shutting down and abandoning module DumpGPUServices (714)
+[2024.06.12-06.36.46:286][882]LogModuleManager: Shutting down and abandoning module ToolPresetEditor (712)
+[2024.06.12-06.36.46:286][882]LogModuleManager: Shutting down and abandoning module ToolPresetAsset (710)
+[2024.06.12-06.36.46:286][882]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (708)
+[2024.06.12-06.36.46:287][882]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (706)
+[2024.06.12-06.36.46:287][882]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (704)
+[2024.06.12-06.36.46:287][882]LogModuleManager: Shutting down and abandoning module StructUtilsEngine (702)
+[2024.06.12-06.36.46:287][882]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (700)
+[2024.06.12-06.36.46:287][882]LogOpenImageDenoise: OIDN shutting down
+[2024.06.12-06.36.46:287][882]LogModuleManager: Shutting down and abandoning module LocalizableMessageBlueprint (698)
+[2024.06.12-06.36.46:287][882]LogModuleManager: Shutting down and abandoning module LocalizableMessage (696)
+[2024.06.12-06.36.46:287][882]LogModuleManager: Shutting down and abandoning module SkeletalMeshModifiers (694)
+[2024.06.12-06.36.46:287][882]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (692)
+[2024.06.12-06.36.46:288][882]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (690)
+[2024.06.12-06.36.46:289][882]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (688)
+[2024.06.12-06.36.46:290][882]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (686)
+[2024.06.12-06.36.46:290][882]LogModuleManager: Shutting down and abandoning module MeshLODToolset (684)
+[2024.06.12-06.36.46:290][882]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (682)
+[2024.06.12-06.36.46:291][882]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (680)
+[2024.06.12-06.36.46:291][882]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (679)
+[2024.06.12-06.36.46:291][882]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (677)
+[2024.06.12-06.36.46:291][882]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (674)
+[2024.06.12-06.36.46:291][882]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (672)
+[2024.06.12-06.36.46:291][882]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (670)
+[2024.06.12-06.36.46:292][882]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (668)
+[2024.06.12-06.36.46:292][882]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (666)
+[2024.06.12-06.36.46:292][882]LogModuleManager: Shutting down and abandoning module SequencerScripting (664)
+[2024.06.12-06.36.46:292][882]LogModuleManager: Shutting down and abandoning module DataflowNodes (662)
+[2024.06.12-06.36.46:292][882]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (660)
+[2024.06.12-06.36.46:292][882]LogModuleManager: Shutting down and abandoning module DataflowEditor (658)
+[2024.06.12-06.36.46:292][882]LogModuleManager: Shutting down and abandoning module ChaosNiagara (656)
+[2024.06.12-06.36.46:292][882]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (654)
+[2024.06.12-06.36.46:292][882]LogModuleManager: Shutting down and abandoning module BackChannel (652)
+[2024.06.12-06.36.46:293][882]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (650)
+[2024.06.12-06.36.46:293][882]LogModuleManager: Shutting down and abandoning module FractureEditor (648)
+[2024.06.12-06.36.46:295][882]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (646)
+[2024.06.12-06.36.46:295][882]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (644)
+[2024.06.12-06.36.46:295][882]LogModuleManager: Shutting down and abandoning module AutomationUtils (642)
+[2024.06.12-06.36.46:295][882]LogModuleManager: Shutting down and abandoning module TemplateSequence (640)
+[2024.06.12-06.36.46:296][882]LogModuleManager: Shutting down and abandoning module VariantManager (638)
+[2024.06.12-06.36.46:299][882]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (637)
+[2024.06.12-06.36.46:299][882]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (634)
+[2024.06.12-06.36.46:300][882]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (632)
+[2024.06.12-06.36.46:301][882]LogModuleManager: Shutting down and abandoning module UVEditorTools (630)
+[2024.06.12-06.36.46:301][882]LogModuleManager: Shutting down and abandoning module UVEditor (628)
+[2024.06.12-06.36.46:301][882]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (624)
+[2024.06.12-06.36.46:301][882]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (622)
+[2024.06.12-06.36.46:301][882]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (620)
+[2024.06.12-06.36.46:308][882]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (618)
+[2024.06.12-06.36.46:308][882]LogModuleManager: Shutting down and abandoning module PluginBrowser (616)
+[2024.06.12-06.36.46:310][882]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (614)
+[2024.06.12-06.36.46:311][882]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (612)
+[2024.06.12-06.36.46:311][882]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (610)
+[2024.06.12-06.36.46:311][882]LogModuleManager: Shutting down and abandoning module EditorDebugTools (608)
+[2024.06.12-06.36.46:312][882]LogModuleManager: Shutting down and abandoning module CurveEditorTools (606)
+[2024.06.12-06.36.46:312][882]LogModuleManager: Shutting down and abandoning module ChangelistReview (604)
+[2024.06.12-06.36.46:314][882]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (602)
+[2024.06.12-06.36.46:314][882]LogModuleManager: Shutting down and abandoning module CryptoKeys (600)
+[2024.06.12-06.36.46:314][882]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (598)
+[2024.06.12-06.36.46:314][882]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (596)
+[2024.06.12-06.36.46:319][882]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (594)
+[2024.06.12-06.36.46:320][882]LogModuleManager: Shutting down and abandoning module InterchangeTests (592)
+[2024.06.12-06.36.46:320][882]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (590)
+[2024.06.12-06.36.46:320][882]LogModuleManager: Shutting down and abandoning module ModelingOperators (588)
+[2024.06.12-06.36.46:320][882]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (586)
+[2024.06.12-06.36.46:320][882]LogModuleManager: Shutting down and abandoning module ModelingComponents (584)
+[2024.06.12-06.36.46:321][882]LogModuleManager: Shutting down and abandoning module GeometryFramework (583)
+[2024.06.12-06.36.46:321][882]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (580)
+[2024.06.12-06.36.46:321][882]LogModuleManager: Shutting down and abandoning module MeshModelingTools (578)
+[2024.06.12-06.36.46:321][882]LogModuleManager: Shutting down and abandoning module TakeSequencer (576)
+[2024.06.12-06.36.46:321][882]LogModuleManager: Shutting down and abandoning module TakeMovieScene (574)
+[2024.06.12-06.36.46:321][882]LogModuleManager: Shutting down and abandoning module ImgMedia (572)
+[2024.06.12-06.36.46:322][882]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (570)
+[2024.06.12-06.36.46:322][882]LogModuleManager: Shutting down and abandoning module MediaPlate (568)
+[2024.06.12-06.36.46:322][882]LogModuleManager: Shutting down and abandoning module MediaCompositing (566)
+[2024.06.12-06.36.46:322][882]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (564)
+[2024.06.12-06.36.46:322][882]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (562)
+[2024.06.12-06.36.46:323][882]LogModuleManager: Shutting down and abandoning module InterchangeEditor (560)
+[2024.06.12-06.36.46:323][882]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (558)
+[2024.06.12-06.36.46:323][882]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (556)
+[2024.06.12-06.36.46:323][882]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (554)
+[2024.06.12-06.36.46:323][882]LogModuleManager: Shutting down and abandoning module InterchangeExport (552)
+[2024.06.12-06.36.46:323][882]LogModuleManager: Shutting down and abandoning module InterchangeMessages (550)
+[2024.06.12-06.36.46:323][882]LogModuleManager: Shutting down and abandoning module GLTFCore (548)
+[2024.06.12-06.36.46:323][882]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (546)
+[2024.06.12-06.36.46:323][882]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (544)
+[2024.06.12-06.36.46:323][882]LogModuleManager: Shutting down and abandoning module ControlRigSpline (542)
+[2024.06.12-06.36.46:323][882]LogModuleManager: Shutting down and abandoning module ACLPluginEditor (540)
+[2024.06.12-06.36.46:324][882]LogModuleManager: Shutting down and abandoning module SynthesisEditor (538)
+[2024.06.12-06.36.46:324][882]LogModuleManager: Shutting down and abandoning module ResonanceAudio (536)
+[2024.06.12-06.36.46:324][882]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (534)
+[2024.06.12-06.36.46:324][882]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (532)
+[2024.06.12-06.36.46:325][882]LogModuleManager: Shutting down and abandoning module AssetTags (530)
+[2024.06.12-06.36.46:325][882]LogModuleManager: Shutting down and abandoning module AlembicImporter (528)
+[2024.06.12-06.36.46:325][882]LogModuleManager: Shutting down and abandoning module AlembicLibrary (527)
+[2024.06.12-06.36.46:325][882]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (524)
+[2024.06.12-06.36.46:325][882]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (522)
+[2024.06.12-06.36.46:325][882]LogModuleManager: Shutting down and abandoning module Paper2DEditor (520)
+[2024.06.12-06.36.46:326][882]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (518)
+[2024.06.12-06.36.46:326][882]LogModuleManager: Shutting down and abandoning module InputDebugging (516)
+[2024.06.12-06.36.46:326][882]LogModuleManager: Shutting down and abandoning module GooglePAD (514)
+[2024.06.12-06.36.46:326][882]LogModuleManager: Shutting down and abandoning module DynamicMesh (512)
+[2024.06.12-06.36.46:327][882]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (510)
+[2024.06.12-06.36.46:327][882]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (508)
+[2024.06.12-06.36.46:327][882]LogModuleManager: Shutting down and abandoning module GeometryCache (506)
+[2024.06.12-06.36.46:327][882]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (504)
+[2024.06.12-06.36.46:327][882]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (502)
+[2024.06.12-06.36.46:327][882]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (500)
+[2024.06.12-06.36.46:327][882]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (498)
+[2024.06.12-06.36.46:327][882]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (496)
+[2024.06.12-06.36.46:327][882]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (494)
+[2024.06.12-06.36.46:327][882]LogModuleManager: Shutting down and abandoning module AudioCapture (492)
+[2024.06.12-06.36.46:327][882]LogModuleManager: Shutting down and abandoning module AudioCaptureWasapi (491)
+[2024.06.12-06.36.46:327][882]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (488)
+[2024.06.12-06.36.46:327][882]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (486)
+[2024.06.12-06.36.46:327][882]LogModuleManager: Shutting down and abandoning module AppleImageUtils (484)
+[2024.06.12-06.36.46:327][882]LogModuleManager: Shutting down and abandoning module AndroidPermission (482)
+[2024.06.12-06.36.46:327][882]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (480)
+[2024.06.12-06.36.46:327][882]LogModuleManager: Shutting down and abandoning module TraceUtilities (478)
+[2024.06.12-06.36.46:327][882]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (476)
+[2024.06.12-06.36.46:328][882]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (474)
+[2024.06.12-06.36.46:328][882]LogModuleManager: Shutting down and abandoning module InputEditor (472)
+[2024.06.12-06.36.46:330][882]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (470)
+[2024.06.12-06.36.46:330][882]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (468)
+[2024.06.12-06.36.46:331][882]LogModuleManager: Shutting down and abandoning module AnimationSharing (466)
+[2024.06.12-06.36.46:331][882]LogModuleManager: Shutting down and abandoning module StructUtils (464)
+[2024.06.12-06.36.46:331][882]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (462)
+[2024.06.12-06.36.46:331][882]LogModuleManager: Shutting down and abandoning module PBIK (460)
+[2024.06.12-06.36.46:331][882]LogModuleManager: Shutting down and abandoning module FullBodyIK (458)
+[2024.06.12-06.36.46:332][882]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (456)
+[2024.06.12-06.36.46:332][882]LogModuleManager: Shutting down and abandoning module TakeRecorder (455)
+[2024.06.12-06.36.46:333][882]LogModuleManager: Shutting down and abandoning module ChaosCaching (452)
+[2024.06.12-06.36.46:333][882]LogModuleManager: Shutting down and abandoning module ActorSequence (450)
+[2024.06.12-06.36.46:333][882]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (448)
+[2024.06.12-06.36.46:333][882]LogModuleManager: Shutting down and abandoning module FacialAnimation (446)
+[2024.06.12-06.36.46:333][882]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (444)
+[2024.06.12-06.36.46:334][882]LogModuleManager: Shutting down and abandoning module DataValidation (442)
+[2024.06.12-06.36.46:334][882]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (440)
+[2024.06.12-06.36.46:335][882]LogModuleManager: Shutting down and abandoning module LevelEditor (439)
+[2024.06.12-06.36.46:342][882]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (438)
+[2024.06.12-06.36.46:343][882]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (436)
+[2024.06.12-06.36.46:343][882]LogModuleManager: Shutting down and abandoning module MainFrame (434)
+[2024.06.12-06.36.46:343][882]LogModuleManager: Shutting down and abandoning module HotReload (433)
+[2024.06.12-06.36.46:344][882]LogModuleManager: Shutting down and abandoning module TreeMap (429)
+[2024.06.12-06.36.46:345][882]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (426)
+[2024.06.12-06.36.46:345][882]LogModuleManager: Shutting down and abandoning module Niagara (424)
+[2024.06.12-06.36.46:348][882]LogModuleManager: Shutting down and abandoning module NiagaraEditor (423)
+[2024.06.12-06.36.46:350][882]LogModuleManager: Shutting down and abandoning module ContentBrowser (422)
+[2024.06.12-06.36.46:350][882]LogModuleManager: Shutting down and abandoning module ContentBrowserData (421)
+[2024.06.12-06.36.46:350][882]LogModuleManager: Shutting down and abandoning module NiagaraCore (416)
+[2024.06.12-06.36.46:350][882]LogModuleManager: Shutting down and abandoning module GameplayCameras (414)
+[2024.06.12-06.36.46:350][882]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (412)
+[2024.06.12-06.36.46:350][882]LogModuleManager: Shutting down and abandoning module InterchangePipelines (410)
+[2024.06.12-06.36.46:350][882]LogModuleManager: Shutting down and abandoning module InterchangeImport (408)
+[2024.06.12-06.36.46:350][882]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (406)
+[2024.06.12-06.36.46:350][882]LogModuleManager: Shutting down and abandoning module InterchangeNodes (404)
+[2024.06.12-06.36.46:350][882]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (402)
+[2024.06.12-06.36.46:350][882]LogModuleManager: Shutting down and abandoning module IKRig (400)
+[2024.06.12-06.36.46:350][882]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (398)
+[2024.06.12-06.36.46:351][882]LogModuleManager: Shutting down and abandoning module ControlRig (396)
+[2024.06.12-06.36.46:351][882]LogModuleManager: Shutting down and abandoning module Constraints (395)
+[2024.06.12-06.36.46:351][882]LogModuleManager: Shutting down and abandoning module LevelSequence (393)
+[2024.06.12-06.36.46:351][882]LogModuleManager: Shutting down and abandoning module AnimationData (390)
+[2024.06.12-06.36.46:351][882]LogModuleManager: Shutting down and abandoning module Synthesis (388)
+[2024.06.12-06.36.46:352][882]LogModuleManager: Shutting down and abandoning module SoundFields (386)
+[2024.06.12-06.36.46:352][882]LogModuleManager: Shutting down and abandoning module SignificanceManager (384)
+[2024.06.12-06.36.46:352][882]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (382)
+[2024.06.12-06.36.46:352][882]LogModuleManager: Shutting down and abandoning module RigVMDeveloper (380)
+[2024.06.12-06.36.46:352][882]LogModuleManager: Shutting down and abandoning module RigVM (378)
+[2024.06.12-06.36.46:352][882]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (376)
+[2024.06.12-06.36.46:352][882]LogModuleManager: Shutting down and abandoning module MsQuicRuntime (374)
+[2024.06.12-06.36.46:352][882]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (372)
+[2024.06.12-06.36.46:352][882]LogModuleManager: Shutting down and abandoning module MetasoundEditor (370)
+[2024.06.12-06.36.46:354][882]LogModuleManager: Shutting down and abandoning module ToolMenus (369)
+[2024.06.12-06.36.46:354][882]LogModuleManager: Shutting down and abandoning module AudioWidgets (367)
+[2024.06.12-06.36.46:355][882]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (366)
+[2024.06.12-06.36.46:356][882]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (362)
+[2024.06.12-06.36.46:356][882]LogModuleManager: Shutting down and abandoning module MetasoundEngine (360)
+[2024.06.12-06.36.46:356][882]LogModuleManager: Shutting down and abandoning module WaveTable (359)
+[2024.06.12-06.36.46:356][882]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (357)
+[2024.06.12-06.36.46:357][882]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (354)
+[2024.06.12-06.36.46:357][882]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (352)
+[2024.06.12-06.36.46:361][882]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (350)
+[2024.06.12-06.36.46:361][882]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (348)
+[2024.06.12-06.36.46:361][882]LogModuleManager: Shutting down and abandoning module Paper2D (346)
+[2024.06.12-06.36.46:361][882]LogModuleManager: Shutting down and abandoning module UdpMessaging (344)
+[2024.06.12-06.36.46:463][882]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (342)
+[2024.06.12-06.36.46:463][882]LogModuleManager: Shutting down and abandoning module CableComponent (340)
+[2024.06.12-06.36.46:463][882]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (338)
+[2024.06.12-06.36.46:463][882]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (337)
+[2024.06.12-06.36.46:463][882]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (334)
+[2024.06.12-06.36.46:463][882]LogModuleManager: Shutting down and abandoning module SignalProcessing (333)
+[2024.06.12-06.36.46:463][882]LogModuleManager: Shutting down and abandoning module TcpMessaging (330)
+[2024.06.12-06.36.46:565][882]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (328)
+[2024.06.12-06.36.46:566][882]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (326)
+[2024.06.12-06.36.46:566][882]LogModuleManager: Shutting down and abandoning module BlueprintGraph (325)
+[2024.06.12-06.36.46:567][882]LogModuleManager: Shutting down and abandoning module EnhancedInput (322)
+[2024.06.12-06.36.46:568][882]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (320)
+[2024.06.12-06.36.46:654][882]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (318)
+[2024.06.12-06.36.46:654][882]LogModuleManager: Shutting down and abandoning module AndroidFileServer (316)
+[2024.06.12-06.36.46:656][882]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (314)
+[2024.06.12-06.36.46:656][882]LogModuleManager: Shutting down and abandoning module PacketHandler (312)
+[2024.06.12-06.36.46:656][882]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (310)
+[2024.06.12-06.36.46:658][882]LogModuleManager: Shutting down and abandoning module AnimGraph (308)
+[2024.06.12-06.36.46:658][882]LogModuleManager: Shutting down and abandoning module TimeManagement (306)
+[2024.06.12-06.36.46:659][882]LogModuleManager: Shutting down and abandoning module AnimationDataController (304)
+[2024.06.12-06.36.46:659][882]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (302)
+[2024.06.12-06.36.46:659][882]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (300)
+[2024.06.12-06.36.46:659][882]LogModuleManager: Shutting down and abandoning module MediaAssets (298)
+[2024.06.12-06.36.46:659][882]LogModuleManager: Shutting down and abandoning module Overlay (296)
+[2024.06.12-06.36.46:659][882]LogModuleManager: Shutting down and abandoning module OverlayEditor (295)
+[2024.06.12-06.36.46:659][882]LogModuleManager: Shutting down and abandoning module VREditor (292)
+[2024.06.12-06.36.46:660][882]LogModuleManager: Shutting down and abandoning module StringTableEditor (290)
+[2024.06.12-06.36.46:661][882]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (288)
+[2024.06.12-06.36.46:661][882]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (286)
+[2024.06.12-06.36.46:662][882]LogModuleManager: Shutting down and abandoning module FunctionalTesting (284)
+[2024.06.12-06.36.46:662][882]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (282)
+[2024.06.12-06.36.46:664][882]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (281)
+[2024.06.12-06.36.46:667][882]LogModuleManager: Shutting down and abandoning module ScriptableEditorWidgets (278)
+[2024.06.12-06.36.46:667][882]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2024.06.12-06.36.46:668][882]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2024.06.12-06.36.46:669][882]LogModuleManager: Shutting down and abandoning module EditorStyle (270)
+[2024.06.12-06.36.46:669][882]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2024.06.12-06.36.46:674][882]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2024.06.12-06.36.46:674][882]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2024.06.12-06.36.46:677][882]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (262)
+[2024.06.12-06.36.46:677][882]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (260)
+[2024.06.12-06.36.46:677][882]LogModuleManager: Shutting down and abandoning module UnrealEd (258)
+[2024.06.12-06.36.46:677][882]LogModuleManager: Shutting down and abandoning module MRMesh (256)
+[2024.06.12-06.36.46:677][882]LogModuleManager: Shutting down and abandoning module Messaging (254)
+[2024.06.12-06.36.46:677][882]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (252)
+[2024.06.12-06.36.46:677][882]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (250)
+[2024.06.12-06.36.46:677][882]LogModuleManager: Shutting down and abandoning module LiveCoding (248)
+[2024.06.12-06.36.46:690][882]LogModuleManager: Shutting down and abandoning module Networking (246)
+[2024.06.12-06.36.46:690][882]LogModuleManager: Shutting down and abandoning module Core (244)
+[2024.06.12-06.36.46:690][882]LogModuleManager: Shutting down and abandoning module AssetDefinition (242)
+[2024.06.12-06.36.46:690][882]LogModuleManager: Shutting down and abandoning module MovieSceneTools (240)
+[2024.06.12-06.36.46:693][882]LogModuleManager: Shutting down and abandoning module CurveEditor (239)
+[2024.06.12-06.36.46:695][882]LogModuleManager: Shutting down and abandoning module Sequencer (237)
+[2024.06.12-06.36.46:697][882]LogModuleManager: Shutting down and abandoning module KismetCompiler (234)
+[2024.06.12-06.36.46:698][882]LogModuleManager: Shutting down and abandoning module MeshBuilder (232)
+[2024.06.12-06.36.46:698][882]LogModuleManager: Shutting down and abandoning module NaniteBuilder (230)
+[2024.06.12-06.36.46:698][882]LogModuleManager: Shutting down and abandoning module MeshUtilities (228)
+[2024.06.12-06.36.46:699][882]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (227)
+[2024.06.12-06.36.46:699][882]LogModuleManager: Shutting down and abandoning module StaticMeshDescription (226)
+[2024.06.12-06.36.46:699][882]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (225)
+[2024.06.12-06.36.46:699][882]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (222)
+[2024.06.12-06.36.46:699][882]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (221)
+[2024.06.12-06.36.46:700][882]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (219)
+[2024.06.12-06.36.46:700][882]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (217)
+[2024.06.12-06.36.46:704][882]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (215)
+[2024.06.12-06.36.46:704][882]LogModuleManager: Shutting down and abandoning module MaterialBaking (211)
+[2024.06.12-06.36.46:705][882]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (208)
+[2024.06.12-06.36.46:717][882]LogModuleManager: Shutting down and abandoning module TelemetryUtils (205)
+[2024.06.12-06.36.46:717][882]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (202)
+[2024.06.12-06.36.46:717][882]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (200)
+[2024.06.12-06.36.46:717][882]LogModuleManager: Shutting down and abandoning module DerivedDataCache (198)
+[2024.06.12-06.36.46:784][882]LogModuleManager: Shutting down and abandoning module TargetPlatform (196)
+[2024.06.12-06.36.46:784][882]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (195)
+[2024.06.12-06.36.46:784][882]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2024.06.12-06.36.46:787][882]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (191)
+[2024.06.12-06.36.46:787][882]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (189)
+[2024.06.12-06.36.46:787][882]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (187)
+[2024.06.12-06.36.46:788][882]LogModuleManager: Shutting down and abandoning module AudioFormatBINK (185)
+[2024.06.12-06.36.46:788][882]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (183)
+[2024.06.12-06.36.46:788][882]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (181)
+[2024.06.12-06.36.46:788][882]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (179)
+[2024.06.12-06.36.46:788][882]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (177)
+[2024.06.12-06.36.46:790][882]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (175)
+[2024.06.12-06.36.46:791][882]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (173)
+[2024.06.12-06.36.46:792][882]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (171)
+[2024.06.12-06.36.46:792][882]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (169)
+[2024.06.12-06.36.46:793][882]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (167)
+[2024.06.12-06.36.46:793][882]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (165)
+[2024.06.12-06.36.46:795][882]LogModuleManager: Shutting down and abandoning module TextureFormat (163)
+[2024.06.12-06.36.46:795][882]LogModuleManager: Shutting down and abandoning module ImageWrapper (162)
+[2024.06.12-06.36.46:795][882]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (160)
+[2024.06.12-06.36.46:801][882]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (158)
+[2024.06.12-06.36.46:801][882]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (156)
+[2024.06.12-06.36.46:801][882]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (154)
+[2024.06.12-06.36.46:801][882]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (152)
+[2024.06.12-06.36.46:801][882]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (150)
+[2024.06.12-06.36.46:801][882]LogModuleManager: Shutting down and abandoning module TurnkeySupport (147)
+[2024.06.12-06.36.46:801][882]LogModuleManager: Shutting down and abandoning module InputCore (144)
+[2024.06.12-06.36.46:801][882]LogModuleManager: Shutting down and abandoning module Settings (142)
+[2024.06.12-06.36.46:801][882]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (140)
+[2024.06.12-06.36.46:812][882]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (138)
+[2024.06.12-06.36.46:812][882]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (137)
+[2024.06.12-06.36.46:812][882]LogModuleManager: Shutting down and abandoning module Chaos (134)
+[2024.06.12-06.36.46:812][882]LogModuleManager: Shutting down and abandoning module GeometryCore (133)
+[2024.06.12-06.36.46:812][882]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (130)
+[2024.06.12-06.36.46:812][882]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (129)
+[2024.06.12-06.36.46:812][882]LogModuleManager: Shutting down and abandoning module AVEncoder (128)
+[2024.06.12-06.36.46:812][882]LogModuleManager: Shutting down and abandoning module D3D12RHI (124)
+[2024.06.12-06.36.46:812][882]LogModuleManager: Shutting down and abandoning module PixWinPlugin (122)
+[2024.06.12-06.36.46:812][882]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (120)
+[2024.06.12-06.36.46:813][882]RenderDocPlugin: plugin has been unloaded.
+[2024.06.12-06.36.46:813][882]LogModuleManager: Shutting down and abandoning module ChaosCloth (118)
+[2024.06.12-06.36.46:813][882]LogModuleManager: Shutting down and abandoning module VariantManagerContent (116)
+[2024.06.12-06.36.46:813][882]LogModuleManager: Shutting down and abandoning module GLTFExporter (114)
+[2024.06.12-06.36.46:813][882]LogModuleManager: Shutting down and abandoning module DatasmithContent (112)
+[2024.06.12-06.36.46:814][882]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (110)
+[2024.06.12-06.36.46:814][882]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (108)
+[2024.06.12-06.36.46:814][882]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (106)
+[2024.06.12-06.36.46:823][882]LogModuleManager: Shutting down and abandoning module XMPP (101)
+[2024.06.12-06.36.46:823][882]LogModuleManager: Shutting down and abandoning module WebSockets (100)
+[2024.06.12-06.36.46:843][882]LogModuleManager: Shutting down and abandoning module HTTP (97)
+[2024.06.12-06.36.46:843][882]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.06.12-06.36.46:843][882]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40888CE2-4B21-0370-1937-4C86FB14FE18%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=9ee9c0eb43421fe50227609880005980%7C33fc4b4e7c8341389500284b0076651f%7Cd97e960a-d280-4a0c-b95b-1a8758f5d410&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2024.06.12-06.36.46:884][882]LogModuleManager: Shutting down and abandoning module SSL (96)
+[2024.06.12-06.36.46:899][882]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (92)
+[2024.06.12-06.36.46:899][882]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (90)
+[2024.06.12-06.36.46:899][882]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (88)
+[2024.06.12-06.36.46:900][882]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (86)
+[2024.06.12-06.36.46:900][882]LogModuleManager: Shutting down and abandoning module NiagaraShader (84)
+[2024.06.12-06.36.46:900][882]LogModuleManager: Shutting down and abandoning module WmfMedia (82)
+[2024.06.12-06.36.46:906][882]LogModuleManager: Shutting down and abandoning module Media (81)
+[2024.06.12-06.36.46:910][882]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (78)
+[2024.06.12-06.36.46:911][882]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2024.06.12-06.36.46:911][882]LogModuleManager: Shutting down and abandoning module ACLPlugin (74)
+[2024.06.12-06.36.46:911][882]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (72)
+[2024.06.12-06.36.46:911][882]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (70)
+[2024.06.12-06.36.46:911][882]LogModuleManager: Shutting down and abandoning module ChunkDownloader (68)
+[2024.06.12-06.36.46:911][882]LogModuleManager: Shutting down and abandoning module AISupportModule (66)
+[2024.06.12-06.36.46:911][882]LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+[2024.06.12-06.36.46:912][882]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (62)
+[2024.06.12-06.36.46:914][882]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (60)
+[2024.06.12-06.36.46:915][882]LogModuleManager: Shutting down and abandoning module SourceControl (59)
+[2024.06.12-06.36.46:915][882]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (56)
+[2024.06.12-06.36.46:916][882]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (54)
+[2024.06.12-06.36.46:916][882]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (52)
+[2024.06.12-06.36.46:916][882]LogModuleManager: Shutting down and abandoning module PlatformCrypto (50)
+[2024.06.12-06.36.46:916][882]LogModuleManager: Shutting down and abandoning module XGEController (48)
+[2024.06.12-06.36.46:917][882]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+[2024.06.12-06.36.46:917][882]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2024.06.12-06.36.46:918][882]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2024.06.12-06.36.46:920][882]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2024.06.12-06.36.46:925][882]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2024.06.12-06.36.46:927][882]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2024.06.12-06.36.46:927][882]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2024.06.12-06.36.46:927][882]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2024.06.12-06.36.46:927][882]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2024.06.12-06.36.46:927][882]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2024.06.12-06.36.46:927][882]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2024.06.12-06.36.46:927][882]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2024.06.12-06.36.46:930][882]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2024.06.12-06.36.46:930][882]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2024.06.12-06.36.46:931][882]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2024.06.12-06.36.46:931][882]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2024.06.12-06.36.46:931][882]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2024.06.12-06.36.46:932][882]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2024.06.12-06.36.46:933][882]LogPakFile: Destroying PakPlatformFile
+[2024.06.12-06.36.46:933][882]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2024.06.12-06.36.46:933][882]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2024.06.12-06.36.46:933][882]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2024.06.12-06.36.46:933][882]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2024.06.12-06.36.46:933][882]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.06.12-06.36.47:454][882]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.06.12-06.36.47:522][882]LogExit: Exiting.
+[2024.06.12-06.36.47:535][882]Log file closed, 06/12/24 00:36:47

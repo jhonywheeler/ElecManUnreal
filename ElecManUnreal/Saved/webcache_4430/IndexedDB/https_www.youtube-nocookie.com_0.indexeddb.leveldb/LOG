@@ -1,6 +1,8 @@
-2024/05/21-22:29:51.652 44d8 Creating DB C:/Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
-2024/05/21-22:29:51.665 44d8 Reusing MANIFEST C:/Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/05/21-22:42:32.058 3a10 Level-0 table #5: started
-2024/05/21-22:42:32.066 3a10 Level-0 table #5: 1167 bytes OK
-2024/05/21-22:42:32.067 3a10 Delete type=0 #3
-2024/05/21-22:42:32.068 3a10 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/06/11-23:48:27.579 4a04 Reusing MANIFEST C:/Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/11-23:48:27.579 4a04 Recovering log #7
+2024/06/11-23:48:27.579 4a04 Reusing old log C:/Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000007.log 
+2024/06/11-23:58:56.212 4a2c Level-0 table #11: started
+2024/06/11-23:58:56.212 4a2c Level-0 table #11: 0 bytes OK
+2024/06/11-23:58:56.219 4a2c Delete type=0 #7
+2024/06/11-23:58:56.219 4a2c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/06/11-23:58:56.219 4a2c Manual compaction at level-1 from (begin) .. (end); will stop at (end)

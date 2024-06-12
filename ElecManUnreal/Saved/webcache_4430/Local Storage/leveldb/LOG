@@ -1,3 +1,6 @@
-2024/05/22-09:06:38.991 4174 Reusing MANIFEST C:/Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/05/22-09:06:39.011 4174 Recovering log #3
-2024/05/22-09:06:39.013 4174 Reusing old log C:/Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/06/11-23:48:15.647 49fc Reusing MANIFEST C:/Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/06/11-23:48:15.656 49fc Recovering log #3
+2024/06/11-23:48:15.657 49fc Reusing old log C:/Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/06/11-23:55:12.093 2190 Level-0 table #5: started
+2024/06/11-23:55:12.096 2190 Level-0 table #5: 21922 bytes OK
+2024/06/11-23:55:12.099 2190 Delete type=0 #3
