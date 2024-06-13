@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/PDM.umap",
 				"C:/Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FY/OGDLEU1ZIDLOBBKYZYC3OG.uasset",
 				"C:/Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/Q3/H7RZCP5JCUM1CVN4D1RQ0F.uasset",
 				"C:/Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/IY/VHSEERFPPZI1EDLV0YM8YN.uasset",
@@ -87,6 +86,9 @@
 				"C:/Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/Hielo/M_Hielo.uasset",
 				"C:/Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/Hielo/ICE_Normal.uasset",
 				"C:/Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Materials/Hielo/T_PerlinNoise.uasset",
+				"C:/Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Levels/P1.umap",
+				"C:/Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/Blueprints/BP_TrashCan.uasset",
+				"C:/Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/PDM.umap",
 				"C:/Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/MaterialsClass/Hielo_Graph.uasset",
 				"C:/Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/MaterialsClass/R_Water.uasset",
 				"C:/Users/jhony/Desktop/GitHub/ElecManUnreal/ElecManUnreal/Content/MaterialsClass/Water_Normal.uasset",
